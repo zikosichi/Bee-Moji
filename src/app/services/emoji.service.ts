@@ -13,7 +13,6 @@ export class EmojiService {
   getEmojis(): Observable<any> {
     return this.http.get('/api/emojis')
       .map((res) => {
-        console.log(res);
         return res;
       });
   }
