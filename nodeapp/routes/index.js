@@ -15,7 +15,7 @@ router.post('/emojis', function (req, res, next) {
   var fileName = path.join(__dirname, '../emoji.json');
 
   fs.unlink(fileName, function (err) {
-    fs.writeFileSync(fileName, JSON.stringify(req.body));
+    fs.writeFileSync(fileName, JSON.stringify(req.body, null, 2));
     return res.json(req.body);
   });
 
