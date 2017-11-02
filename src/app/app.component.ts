@@ -47,4 +47,16 @@ export class AppComponent implements OnInit {
       }
     }
   }
+
+  addTag(emoji: any, tag: any) {
+    emoji.tags.push(tag.value);
+    tag.value = '';
+    this.saveEmojis();
+  }
+
+  saveEmojis() {
+    this.emojiService.saveEmojis(this.emojis).subscribe(r => {
+      console.log(r);
+    });
+  }
 }

@@ -55,9 +55,14 @@
                 <button class="btn badge badge-light">x</button>
               </small>
             </div>
-            <input type="text"
-                   placeholder="Add new tag"
-                   class="form-control form-control-sm mt-1">
+            <form (submit)="addTag(emoji, tag)">
+              <input type="text"
+                     placeholder="Add new tag"
+                     name="tag"
+                     #tag
+                     autocomplete="off"
+                     class="form-control form-control-sm mt-1">
+            </form>
           </div>
         </div>
       </div>

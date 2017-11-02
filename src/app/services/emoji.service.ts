@@ -17,4 +17,11 @@ export class EmojiService {
       });
   }
 
+  saveEmojis(emojis: any[]): Observable<any> {
+    return this.http.post('/api/emojis', emojis)
+      .map((res) => {
+        return res;
+      });
+  }
+
 }
