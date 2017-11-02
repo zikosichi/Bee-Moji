@@ -54,9 +54,20 @@ export class AppComponent implements OnInit {
     this.saveEmojis();
   }
 
+  removeTag(emoji: any, tag: any) {
+    const i = emoji.tags.indexOf(tag);
+    if (i !== -1) {
+      emoji.tags.splice(i, 1);
+    }
+    this.saveEmojis();
+  }
+
   saveEmojis() {
-    this.emojiService.saveEmojis(this.emojis).subscribe(r => {
-      console.log(r);
-    });
+    this.emojiService.saveEmojis(this.emojis)
+      .subscribe(r => {
+        console.log(r);
+      }, err => {
+        alert(err);
+      });
   }
 }

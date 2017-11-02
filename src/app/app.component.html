@@ -52,7 +52,10 @@
               <small class="badge badge-primary mr-2"
                     *ngFor="let tag of emoji.tags">
                 {{tag}}
-                <button class="btn badge badge-light">x</button>
+                <button class="btn badge badge-light"
+                        (click)="removeTag(emoji, tag)">
+                  x
+                </button>
               </small>
             </div>
             <form (submit)="addTag(emoji, tag)">
