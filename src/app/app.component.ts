@@ -13,7 +13,7 @@ export class AppComponent implements OnInit {
 
   emojis: any[] = [];
   categories: string[] = [];
-  activeCat: string[] = [];
+  activeCat: string;
 
   constructor(
     private route: ActivatedRoute,
@@ -26,6 +26,8 @@ export class AppComponent implements OnInit {
       .subscribe(params => {
         if (params['cat']) {
           this.activeCat = params['cat'];
+        } else {
+          this.activeCat = '';
         }
       });
 
