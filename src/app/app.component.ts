@@ -62,6 +62,17 @@ export class AppComponent implements OnInit {
     this.saveEmojis();
   }
 
+  deleteEmoji(emoji) {
+    const r = prompt('If you are sure what you are doing, then type "DELETE" here and press ok');
+    if (r === 'DELETE') {
+      const i = this.emojis.indexOf(emoji);
+      if (i !== -1) {
+        this.emojis.splice(i, 1);
+      }
+    }
+    this.saveEmojis();
+  }
+
   saveEmojis() {
     this.emojiService.saveEmojis(this.emojis)
       .subscribe(r => {

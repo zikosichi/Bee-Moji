@@ -35,7 +35,13 @@
 
     <div class="col-4 mb-2" *ngFor="let emoji of emojis | category : activeCat">
       <div class="card h-100">
-        <div class="card-body p-2 d-flex">
+        <div class="card-body p-2 d-flex emoji-block">
+
+          <button class="btn btn-danger btn-sm del-btn"
+                  (click)="deleteEmoji(emoji)">
+            <i class="fa fa-trash-o"></i>
+          </button>
+
           <h1 class="text-center">
             {{emoji.emoji}}
           </h1>

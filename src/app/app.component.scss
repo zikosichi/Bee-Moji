@@ -1,0 +1,14 @@
+.emoji-block {
+  &:hover {
+    .del-btn {
+      display: block;
+    }
+  }
+}
+
+.del-btn {
+  display: none;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
