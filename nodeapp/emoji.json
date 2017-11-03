@@ -5861,7 +5861,8 @@
       "pear"
     ],
     "tags": [
-      "pear"
+      "pear",
+      "fruit"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -5875,7 +5876,10 @@
       "orange",
       "mandarin"
     ],
-    "tags": [],
+    "tags": [
+      "tangerine",
+      "fruit"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -5886,7 +5890,10 @@
     "aliases": [
       "lemon"
     ],
-    "tags": [],
+    "tags": [
+      "lemon",
+      "fruit"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -5898,6 +5905,8 @@
       "banana"
     ],
     "tags": [
+      "banana",
+      "minion",
       "fruit"
     ],
     "unicode_version": "6.0",
@@ -5910,7 +5919,10 @@
     "aliases": [
       "watermelon"
     ],
-    "tags": [],
+    "tags": [
+      "fruit",
+      "watermelon"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -5921,7 +5933,10 @@
     "aliases": [
       "grapes"
     ],
-    "tags": [],
+    "tags": [
+      "fruit",
+      "grapes"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -5933,7 +5948,8 @@
       "strawberry"
     ],
     "tags": [
-      "fruit"
+      "fruit",
+      "strawberry"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -5945,7 +5961,9 @@
     "aliases": [
       "melon"
     ],
-    "tags": [],
+    "tags": [
+      "melon"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -5957,7 +5975,8 @@
       "cherries"
     ],
     "tags": [
-      "fruit"
+      "fruit",
+      "cherries"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -5969,7 +5988,9 @@
     "aliases": [
       "peach"
     ],
-    "tags": [],
+    "tags": [
+      "peach"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -5980,7 +6001,9 @@
     "aliases": [
       "pineapple"
     ],
-    "tags": [],
+    "tags": [
+      "pineapple"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -5991,7 +6014,9 @@
     "aliases": [
       "kiwi_fruit"
     ],
-    "tags": [],
+    "tags": [
+      "kiwi"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -6002,7 +6027,9 @@
     "aliases": [
       "avocado"
     ],
-    "tags": [],
+    "tags": [
+      "avocado"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -6013,7 +6040,9 @@
     "aliases": [
       "tomato"
     ],
-    "tags": [],
+    "tags": [
+      "tomato"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6025,7 +6054,8 @@
       "eggplant"
     ],
     "tags": [
-      "aubergine"
+      "aubergine",
+      "eggplant"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -6037,7 +6067,9 @@
     "aliases": [
       "cucumber"
     ],
-    "tags": [],
+    "tags": [
+      "cucumber"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -6048,7 +6080,9 @@
     "aliases": [
       "carrot"
     ],
-    "tags": [],
+    "tags": [
+      "carrot"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -6059,7 +6093,10 @@
     "aliases": [
       "corn"
     ],
-    "tags": [],
+    "tags": [
+      "corn",
+      "popcorn"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6071,7 +6108,9 @@
       "hot_pepper"
     ],
     "tags": [
-      "spicy"
+      "spicy",
+      "pepper",
+      "hot"
     ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
@@ -6083,7 +6122,9 @@
     "aliases": [
       "potato"
     ],
-    "tags": [],
+    "tags": [
+      "potato"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -6094,7 +6135,9 @@
     "aliases": [
       "sweet_potato"
     ],
-    "tags": [],
+    "tags": [
+      "potato"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6105,7 +6148,9 @@
     "aliases": [
       "chestnut"
     ],
-    "tags": [],
+    "tags": [
+      "chestnut"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6116,7 +6161,9 @@
     "aliases": [
       "peanuts"
     ],
-    "tags": [],
+    "tags": [
+      "peanuts"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -6127,7 +6174,10 @@
     "aliases": [
       "honey_pot"
     ],
-    "tags": [],
+    "tags": [
+      "honey",
+      "bee"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6138,7 +6188,10 @@
     "aliases": [
       "croissant"
     ],
-    "tags": [],
+    "tags": [
+      "croissant",
+      "breakfast"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -6150,7 +6203,9 @@
       "bread"
     ],
     "tags": [
-      "toast"
+      "toast",
+      "breakfast",
+      "bread"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -6162,7 +6217,9 @@
     "aliases": [
       "baguette_bread"
     ],
-    "tags": [],
+    "tags": [
+      "bread"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -6173,7 +6230,10 @@
     "aliases": [
       "cheese"
     ],
-    "tags": [],
+    "tags": [
+      "cheese",
+      "mouse"
+    ],
     "unicode_version": "8.0",
     "ios_version": "9.1"
   },
@@ -6184,7 +6244,10 @@
     "aliases": [
       "egg"
     ],
-    "tags": [],
+    "tags": [
+      "egg",
+      "chicken"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -6196,7 +6259,9 @@
       "fried_egg"
     ],
     "tags": [
-      "breakfast"
+      "breakfast",
+      "egg",
+      "eggs"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -6208,7 +6273,10 @@
     "aliases": [
       "bacon"
     ],
-    "tags": [],
+    "tags": [
+      "breakfast",
+      "bacon"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -6219,7 +6287,9 @@
     "aliases": [
       "pancakes"
     ],
-    "tags": [],
+    "tags": [
+      "pancakes"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -6231,7 +6301,9 @@
       "fried_shrimp"
     ],
     "tags": [
-      "tempura"
+      "tempura",
+      "shrimp",
+      "shrimps"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -6257,7 +6329,10 @@
     "aliases": [
       "meat_on_bone"
     ],
-    "tags": [],
+    "tags": [
+      "meat",
+      "bone"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6268,7 +6343,11 @@
     "aliases": [
       "pizza"
     ],
-    "tags": [],
+    "tags": [
+      "pizza",
+      "party",
+      "calories"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6279,7 +6358,9 @@
     "aliases": [
       "hotdog"
     ],
-    "tags": [],
+    "tags": [
+      "hotdog"
+    ],
     "unicode_version": "8.0",
     "ios_version": "9.1"
   },
@@ -6291,7 +6372,8 @@
       "hamburger"
     ],
     "tags": [
-      "burger"
+      "burger",
+      "hamburger"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -6303,7 +6385,9 @@
     "aliases": [
       "fries"
     ],
-    "tags": [],
+    "tags": [
+      "fries"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6314,7 +6398,9 @@
     "aliases": [
       "stuffed_flatbread"
     ],
-    "tags": [],
+    "tags": [
+      "flatbread"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -6325,7 +6411,10 @@
     "aliases": [
       "taco"
     ],
-    "tags": [],
+    "tags": [
+      "taco",
+      "Mexica"
+    ],
     "unicode_version": "8.0",
     "ios_version": "9.1"
   },
@@ -6336,7 +6425,10 @@
     "aliases": [
       "burrito"
     ],
-    "tags": [],
+    "tags": [
+      "burrito",
+      "Mexica"
+    ],
     "unicode_version": "8.0",
     "ios_version": "9.1"
   },
@@ -6347,7 +6439,11 @@
     "aliases": [
       "green_salad"
     ],
-    "tags": [],
+    "tags": [
+      "salad",
+      "green",
+      "salad"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -6373,7 +6469,8 @@
       "spaghetti"
     ],
     "tags": [
-      "pasta"
+      "pasta",
+      "spaghetti"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -6398,7 +6495,9 @@
     "aliases": [
       "stew"
     ],
-    "tags": [],
+    "tags": [
+      "stew"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6409,7 +6508,9 @@
     "aliases": [
       "fish_cake"
     ],
-    "tags": [],
+    "tags": [
+      "fishcake"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6420,7 +6521,10 @@
     "aliases": [
       "sushi"
     ],
-    "tags": [],
+    "tags": [
+      "sushi",
+      "japan"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6431,7 +6535,9 @@
     "aliases": [
       "bento"
     ],
-    "tags": [],
+    "tags": [
+      "sushi"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6442,7 +6548,10 @@
     "aliases": [
       "curry"
     ],
-    "tags": [],
+    "tags": [
+      "rice",
+      "curry"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6453,7 +6562,9 @@
     "aliases": [
       "rice"
     ],
-    "tags": [],
+    "tags": [
+      "rice"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6464,7 +6575,9 @@
     "aliases": [
       "rice_ball"
     ],
-    "tags": [],
+    "tags": [
+      "rice"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6475,7 +6588,9 @@
     "aliases": [
       "rice_cracker"
     ],
-    "tags": [],
+    "tags": [
+      "rice"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6486,7 +6601,9 @@
     "aliases": [
       "oden"
     ],
-    "tags": [],
+    "tags": [
+      "oden"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6497,7 +6614,9 @@
     "aliases": [
       "dango"
     ],
-    "tags": [],
+    "tags": [
+      "dango"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6508,7 +6627,11 @@
     "aliases": [
       "shaved_ice"
     ],
-    "tags": [],
+    "tags": [
+      "icecream",
+      "ice",
+      "cream"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6519,7 +6642,10 @@
     "aliases": [
       "ice_cream"
     ],
-    "tags": [],
+    "tags": [
+      "icecream",
+      "ice"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6530,7 +6656,9 @@
     "aliases": [
       "icecream"
     ],
-    "tags": [],
+    "tags": [
+      "icecream"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6542,7 +6670,8 @@
       "cake"
     ],
     "tags": [
-      "dessert"
+      "dessert",
+      "cake"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -6555,7 +6684,8 @@
       "birthday"
     ],
     "tags": [
-      "party"
+      "party",
+      "cake"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -6567,7 +6697,9 @@
     "aliases": [
       "custard"
     ],
-    "tags": [],
+    "tags": [
+      "custard"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6578,7 +6710,11 @@
     "aliases": [
       "lollipop"
     ],
-    "tags": [],
+    "tags": [
+      "lollipop",
+      "candy",
+      "sweet"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6590,7 +6726,8 @@
       "candy"
     ],
     "tags": [
-      "sweet"
+      "sweet",
+      "candy"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -6602,7 +6739,10 @@
     "aliases": [
       "chocolate_bar"
     ],
-    "tags": [],
+    "tags": [
+      "sweet",
+      "chocolate"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6613,7 +6753,11 @@
     "aliases": [
       "popcorn"
     ],
-    "tags": [],
+    "tags": [
+      "popcorn",
+      "cinema",
+      "movie"
+    ],
     "unicode_version": "8.0",
     "ios_version": "9.1"
   },
@@ -6624,7 +6768,10 @@
     "aliases": [
       "doughnut"
     ],
-    "tags": [],
+    "tags": [
+      "doughnut",
+      "seet"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6635,7 +6782,9 @@
     "aliases": [
       "cookie"
     ],
-    "tags": [],
+    "tags": [
+      "cookie"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6646,7 +6795,10 @@
     "aliases": [
       "milk_glass"
     ],
-    "tags": [],
+    "tags": [
+      "milk",
+      "cow"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -6658,7 +6810,8 @@
       "baby_bottle"
     ],
     "tags": [
-      "milk"
+      "milk",
+      "baby"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -6672,7 +6825,8 @@
     ],
     "tags": [
       "cafe",
-      "espresso"
+      "espresso",
+      "coffee"
     ],
     "unicode_version": "4.0",
     "ios_version": "6.0"
@@ -6686,7 +6840,8 @@
     ],
     "tags": [
       "green",
-      "breakfast"
+      "breakfast",
+      "tea"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -6698,7 +6853,10 @@
     "aliases": [
       "sake"
     ],
-    "tags": [],
+    "tags": [
+      "sake",
+      "japan"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6710,7 +6868,10 @@
       "beer"
     ],
     "tags": [
-      "drink"
+      "drink",
+      "beer",
+      "cheers",
+      "drinks"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -6723,7 +6884,11 @@
       "beers"
     ],
     "tags": [
-      "drinks"
+      "drinks",
+      "cheers",
+      "drink",
+      "beer",
+      "beers"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -6737,7 +6902,8 @@
     ],
     "tags": [
       "cheers",
-      "toast"
+      "toast",
+      "champagne"
     ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
@@ -6749,7 +6915,11 @@
     "aliases": [
       "wine_glass"
     ],
-    "tags": [],
+    "tags": [
+      "wine",
+      "drink",
+      "alcohol"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -6761,7 +6931,9 @@
       "tumbler_glass"
     ],
     "tags": [
-      "whisky"
+      "whisky",
+      "drink",
+      "alcohol"
     ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
@@ -6774,7 +6946,10 @@
       "cocktail"
     ],
     "tags": [
-      "drink"
+      "drink",
+      "alcohol",
+      "cocktail",
+      "martini"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -6788,7 +6963,8 @@
     ],
     "tags": [
       "summer",
-      "vacation"
+      "vacation",
+      "drink"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -6803,7 +6979,9 @@
     "tags": [
       "bottle",
       "bubbly",
-      "celebration"
+      "celebration",
+      "party",
+      "drink"
     ],
     "unicode_version": "8.0",
     "ios_version": "9.1"
@@ -6815,7 +6993,9 @@
     "aliases": [
       "spoon"
     ],
-    "tags": [],
+    "tags": [
+      "spoon"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -6827,7 +7007,8 @@
       "fork_and_knife"
     ],
     "tags": [
-      "cutlery"
+      "cutlery",
+      "fork"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -6841,7 +7022,9 @@
     ],
     "tags": [
       "dining",
-      "dinner"
+      "dinner",
+      "spoon",
+      "fork"
     ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
@@ -17121,108 +17304,5 @@
     "tags": [],
     "unicode_version": "6.0",
     "ios_version": "8.3"
-  },
-  {
-    "aliases": [
-      "basecamp"
-    ],
-    "tags": []
-  },
-  {
-    "aliases": [
-      "basecampy"
-    ],
-    "tags": []
-  },
-  {
-    "aliases": [
-      "bowtie"
-    ],
-    "tags": []
-  },
-  {
-    "aliases": [
-      "feelsgood"
-    ],
-    "tags": []
-  },
-  {
-    "aliases": [
-      "finnadie"
-    ],
-    "tags": []
-  },
-  {
-    "aliases": [
-      "goberserk"
-    ],
-    "tags": []
-  },
-  {
-    "aliases": [
-      "godmode"
-    ],
-    "tags": []
-  },
-  {
-    "aliases": [
-      "hurtrealbad"
-    ],
-    "tags": []
-  },
-  {
-    "aliases": [
-      "neckbeard"
-    ],
-    "tags": []
-  },
-  {
-    "aliases": [
-      "octocat"
-    ],
-    "tags": []
-  },
-  {
-    "aliases": [
-      "rage1"
-    ],
-    "tags": []
-  },
-  {
-    "aliases": [
-      "rage2"
-    ],
-    "tags": []
-  },
-  {
-    "aliases": [
-      "rage3"
-    ],
-    "tags": []
-  },
-  {
-    "aliases": [
-      "rage4"
-    ],
-    "tags": []
-  },
-  {
-    "aliases": [
-      "shipit",
-      "squirrel"
-    ],
-    "tags": []
-  },
-  {
-    "aliases": [
-      "suspect"
-    ],
-    "tags": []
-  },
-  {
-    "aliases": [
-      "trollface"
-    ],
-    "tags": []
   }
 ]
