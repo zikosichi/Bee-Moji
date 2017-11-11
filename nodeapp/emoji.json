@@ -5835,7 +5835,8 @@
     ],
     "tags": [
       "fruit",
-      "apple"
+      "apple",
+      "food"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -6190,7 +6191,8 @@
     ],
     "tags": [
       "croissant",
-      "breakfast"
+      "breakfast",
+      "food"
     ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
@@ -6261,7 +6263,8 @@
     "tags": [
       "breakfast",
       "egg",
-      "eggs"
+      "eggs",
+      "food"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -6331,7 +6334,8 @@
     ],
     "tags": [
       "meat",
-      "bone"
+      "bone",
+      "food"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -6346,7 +6350,8 @@
     "tags": [
       "pizza",
       "party",
-      "calories"
+      "calories",
+      "food"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -6399,7 +6404,9 @@
       "stuffed_flatbread"
     ],
     "tags": [
-      "flatbread"
+      "flatbread",
+      "food",
+      "fresh"
     ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
@@ -6442,7 +6449,9 @@
     "tags": [
       "salad",
       "green",
-      "salad"
+      "salad",
+      "food",
+      "fresh"
     ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
@@ -6496,7 +6505,8 @@
       "stew"
     ],
     "tags": [
-      "stew"
+      "stew",
+      "food"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -6536,7 +6546,8 @@
       "bento"
     ],
     "tags": [
-      "sushi"
+      "sushi",
+      "food"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -7037,7 +7048,11 @@
       "soccer"
     ],
     "tags": [
-      "sports"
+      "sports",
+      "football",
+      "soccer",
+      "ball",
+      "sport"
     ],
     "unicode_version": "5.2",
     "ios_version": "6.0"
@@ -7050,7 +7065,10 @@
       "basketball"
     ],
     "tags": [
-      "sports"
+      "sports",
+      "basketball",
+      "sport",
+      "ball"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -7063,7 +7081,10 @@
       "football"
     ],
     "tags": [
-      "sports"
+      "sports",
+      "sport",
+      "football",
+      "ball"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -7076,7 +7097,10 @@
       "baseball"
     ],
     "tags": [
-      "sports"
+      "sports",
+      "ball",
+      "baseball",
+      "sport"
     ],
     "unicode_version": "5.2",
     "ios_version": "6.0"
@@ -7089,7 +7113,10 @@
       "tennis"
     ],
     "tags": [
-      "sports"
+      "sports",
+      "sport",
+      "ball",
+      "tennis"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -7101,7 +7128,12 @@
     "aliases": [
       "volleyball"
     ],
-    "tags": [],
+    "tags": [
+      "volleyball",
+      "ball",
+      "sport",
+      "sports"
+    ],
     "unicode_version": "8.0",
     "ios_version": "9.1"
   },
@@ -7112,7 +7144,10 @@
     "aliases": [
       "rugby_football"
     ],
-    "tags": [],
+    "tags": [
+      "rugby",
+      "ball"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -7125,7 +7160,9 @@
     ],
     "tags": [
       "pool",
-      "billiards"
+      "billiards",
+      "ball",
+      "8"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -7137,7 +7174,10 @@
     "aliases": [
       "ping_pong"
     ],
-    "tags": [],
+    "tags": [
+      "pong",
+      "tennis"
+    ],
     "unicode_version": "8.0",
     "ios_version": "9.1"
   },
@@ -7148,7 +7188,9 @@
     "aliases": [
       "badminton"
     ],
-    "tags": [],
+    "tags": [
+      "badminton"
+    ],
     "unicode_version": "8.0",
     "ios_version": "9.1"
   },
@@ -7159,7 +7201,10 @@
     "aliases": [
       "goal_net"
     ],
-    "tags": [],
+    "tags": [
+      "goal",
+      "net"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -7170,7 +7215,9 @@
     "aliases": [
       "ice_hockey"
     ],
-    "tags": [],
+    "tags": [
+      "hockey"
+    ],
     "unicode_version": "8.0",
     "ios_version": "9.1"
   },
@@ -7181,7 +7228,9 @@
     "aliases": [
       "field_hockey"
     ],
-    "tags": [],
+    "tags": [
+      "hockey"
+    ],
     "unicode_version": "8.0",
     "ios_version": "9.1"
   },
@@ -7192,7 +7241,11 @@
     "aliases": [
       "cricket"
     ],
-    "tags": [],
+    "tags": [
+      "cricket",
+      "sport",
+      "sports"
+    ],
     "unicode_version": "8.0",
     "ios_version": "9.1"
   },
@@ -7203,7 +7256,9 @@
     "aliases": [
       "golf"
     ],
-    "tags": [],
+    "tags": [
+      "golf"
+    ],
     "unicode_version": "5.2",
     "ios_version": "6.0"
   },
@@ -7215,7 +7270,8 @@
       "bow_and_arrow"
     ],
     "tags": [
-      "archery"
+      "archery",
+      "arrow"
     ],
     "unicode_version": "8.0",
     "ios_version": "9.1"
@@ -7227,7 +7283,9 @@
     "aliases": [
       "fishing_pole_and_fish"
     ],
-    "tags": [],
+    "tags": [
+      "fishing"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -7238,7 +7296,12 @@
     "aliases": [
       "boxing_glove"
     ],
-    "tags": [],
+    "tags": [
+      "boxing",
+      "box",
+      "hit",
+      "fight"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -7249,7 +7312,10 @@
     "aliases": [
       "martial_arts_uniform"
     ],
-    "tags": [],
+    "tags": [
+      "Karate",
+      "fight"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -7261,7 +7327,8 @@
       "ice_skate"
     ],
     "tags": [
-      "skating"
+      "skating",
+      "ice"
     ],
     "unicode_version": "5.2",
     "ios_version": "9.1"
@@ -7273,7 +7340,11 @@
     "aliases": [
       "ski"
     ],
-    "tags": [],
+    "tags": [
+      "ski",
+      "Skiing",
+      "snow"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -7284,7 +7355,12 @@
     "aliases": [
       "skier"
     ],
-    "tags": [],
+    "tags": [
+      "Skiing",
+      "ski",
+      "skier",
+      "snow"
+    ],
     "unicode_version": "5.2",
     "ios_version": "9.1"
   },
@@ -7295,7 +7371,10 @@
     "aliases": [
       "snowboarder"
     ],
-    "tags": [],
+    "tags": [
+      "snowboarder",
+      "snowboard"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -7308,7 +7387,8 @@
     ],
     "tags": [
       "gym",
-      "workout"
+      "workout",
+      "havy"
     ],
     "unicode_version": "6.0",
     "ios_version": "10.0"
@@ -7322,7 +7402,8 @@
     ],
     "tags": [
       "gym",
-      "workout"
+      "workout",
+      "havy"
     ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
@@ -7334,7 +7415,9 @@
     "aliases": [
       "person_fencing"
     ],
-    "tags": [],
+    "tags": [
+      "fencing"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -7345,7 +7428,9 @@
     "aliases": [
       "women_wrestling"
     ],
-    "tags": [],
+    "tags": [
+      "wrestling"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -7356,7 +7441,9 @@
     "aliases": [
       "men_wrestling"
     ],
-    "tags": [],
+    "tags": [
+      "wrestling"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -7367,7 +7454,9 @@
     "aliases": [
       "woman_cartwheeling"
     ],
-    "tags": [],
+    "tags": [
+      "cartwheeling"
+    ],
     "unicode_version": "",
     "ios_version": "10.2"
   },
@@ -7378,7 +7467,9 @@
     "aliases": [
       "man_cartwheeling"
     ],
-    "tags": [],
+    "tags": [
+      "cartwheeling"
+    ],
     "unicode_version": "",
     "ios_version": "10.2"
   },
@@ -7389,7 +7480,9 @@
     "aliases": [
       "basketball_woman"
     ],
-    "tags": [],
+    "tags": [
+      "basketball"
+    ],
     "unicode_version": "7.0",
     "ios_version": "10.0"
   },
@@ -7400,7 +7493,9 @@
     "aliases": [
       "basketball_man"
     ],
-    "tags": [],
+    "tags": [
+      "basketball"
+    ],
     "unicode_version": "5.2",
     "ios_version": "9.1"
   },
@@ -7411,7 +7506,9 @@
     "aliases": [
       "woman_playing_handball"
     ],
-    "tags": [],
+    "tags": [
+      "handball"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -7422,7 +7519,9 @@
     "aliases": [
       "man_playing_handball"
     ],
-    "tags": [],
+    "tags": [
+      "handball"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -7433,7 +7532,10 @@
     "aliases": [
       "golfing_woman"
     ],
-    "tags": [],
+    "tags": [
+      "golfing",
+      "golf"
+    ],
     "unicode_version": "",
     "ios_version": "10.0"
   },
@@ -7444,7 +7546,10 @@
     "aliases": [
       "golfing_man"
     ],
-    "tags": [],
+    "tags": [
+      "golfing",
+      "golf"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -7455,7 +7560,10 @@
     "aliases": [
       "surfing_woman"
     ],
-    "tags": [],
+    "tags": [
+      "surfing",
+      "wave"
+    ],
     "unicode_version": "7.0",
     "ios_version": "10.0"
   },
@@ -7467,7 +7575,10 @@
       "surfing_man",
       "surfer"
     ],
-    "tags": [],
+    "tags": [
+      "surfing",
+      "wave"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -7478,7 +7589,10 @@
     "aliases": [
       "swimming_woman"
     ],
-    "tags": [],
+    "tags": [
+      "swimming",
+      "swim"
+    ],
     "unicode_version": "6.0",
     "ios_version": "10.0"
   },
@@ -7490,7 +7604,10 @@
       "swimming_man",
       "swimmer"
     ],
-    "tags": [],
+    "tags": [
+      "swimming",
+      "swim"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -7501,7 +7618,9 @@
     "aliases": [
       "woman_playing_water_polo"
     ],
-    "tags": [],
+    "tags": [
+      "polo"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -7512,7 +7631,9 @@
     "aliases": [
       "man_playing_water_polo"
     ],
-    "tags": [],
+    "tags": [
+      "polo"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -7523,7 +7644,11 @@
     "aliases": [
       "rowing_woman"
     ],
-    "tags": [],
+    "tags": [
+      "boat",
+      "rowing",
+      "rowboat"
+    ],
     "unicode_version": "6.0",
     "ios_version": "10.0"
   },
@@ -7535,7 +7660,11 @@
       "rowing_man",
       "rowboat"
     ],
-    "tags": [],
+    "tags": [
+      "boat",
+      "rowing",
+      "rowboat"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -7546,7 +7675,10 @@
     "aliases": [
       "horse_racing"
     ],
-    "tags": [],
+    "tags": [
+      "horse",
+      "racing"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -7557,7 +7689,10 @@
     "aliases": [
       "biking_woman"
     ],
-    "tags": [],
+    "tags": [
+      "biking",
+      "bike"
+    ],
     "unicode_version": "6.0",
     "ios_version": "10.0"
   },
@@ -7569,7 +7704,10 @@
       "biking_man",
       "bicyclist"
     ],
-    "tags": [],
+    "tags": [
+      "biking",
+      "bike"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -7580,7 +7718,10 @@
     "aliases": [
       "mountain_biking_woman"
     ],
-    "tags": [],
+    "tags": [
+      "biking",
+      "mountain"
+    ],
     "unicode_version": "6.0",
     "ios_version": "10.0"
   },
@@ -7592,7 +7733,10 @@
       "mountain_biking_man",
       "mountain_bicyclist"
     ],
-    "tags": [],
+    "tags": [
+      "mountain",
+      "biking"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -7604,7 +7748,8 @@
       "running_shirt_with_sash"
     ],
     "tags": [
-      "marathon"
+      "marathon",
+      "shirt"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -7618,7 +7763,9 @@
     ],
     "tags": [
       "gold",
-      "winner"
+      "winner",
+      "medal",
+      "champion"
     ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
@@ -7630,7 +7777,9 @@
     "aliases": [
       "medal_military"
     ],
-    "tags": [],
+    "tags": [
+      "medal"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -7642,7 +7791,10 @@
       "1st_place_medal"
     ],
     "tags": [
-      "gold"
+      "gold",
+      "winner",
+      "medal",
+      "champion"
     ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
@@ -7655,7 +7807,8 @@
       "2nd_place_medal"
     ],
     "tags": [
-      "silver"
+      "silver",
+      "medal"
     ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
@@ -7668,7 +7821,8 @@
       "3rd_place_medal"
     ],
     "tags": [
-      "bronze"
+      "bronze",
+      "medal"
     ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
@@ -7683,7 +7837,8 @@
     "tags": [
       "award",
       "contest",
-      "winner"
+      "winner",
+      "champion"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -7695,7 +7850,9 @@
     "aliases": [
       "rosette"
     ],
-    "tags": [],
+    "tags": [
+      "rosette"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -7706,7 +7863,9 @@
     "aliases": [
       "reminder_ribbon"
     ],
-    "tags": [],
+    "tags": [
+      "ribbon"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -7717,7 +7876,9 @@
     "aliases": [
       "ticket"
     ],
-    "tags": [],
+    "tags": [
+      "ticket"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -7728,7 +7889,9 @@
     "aliases": [
       "tickets"
     ],
-    "tags": [],
+    "tags": [
+      "ticket"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -7739,7 +7902,10 @@
     "aliases": [
       "circus_tent"
     ],
-    "tags": [],
+    "tags": [
+      "circus",
+      "clown"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -7750,7 +7916,9 @@
     "aliases": [
       "woman_juggling"
     ],
-    "tags": [],
+    "tags": [
+      "juggling"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -7761,7 +7929,9 @@
     "aliases": [
       "man_juggling"
     ],
-    "tags": [],
+    "tags": [
+      "juggling"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -7774,7 +7944,10 @@
     ],
     "tags": [
       "theater",
-      "drama"
+      "drama",
+      "arts",
+      "performing",
+      "performance"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -7788,7 +7961,11 @@
     ],
     "tags": [
       "design",
-      "paint"
+      "paint",
+      "art",
+      "arts",
+      "artist",
+      "palette"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -7801,7 +7978,8 @@
       "clapper"
     ],
     "tags": [
-      "film"
+      "film",
+      "movie"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -7814,7 +7992,9 @@
       "microphone"
     ],
     "tags": [
-      "sing"
+      "sing",
+      "microphone",
+      "karaoke"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -7828,7 +8008,8 @@
     ],
     "tags": [
       "music",
-      "earphones"
+      "earphones",
+      "headphone"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -7840,7 +8021,10 @@
     "aliases": [
       "musical_score"
     ],
-    "tags": [],
+    "tags": [
+      "music",
+      "musical"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -7852,7 +8036,8 @@
       "musical_keyboard"
     ],
     "tags": [
-      "piano"
+      "piano",
+      "music"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -7864,7 +8049,9 @@
     "aliases": [
       "drum"
     ],
-    "tags": [],
+    "tags": [
+      "drum"
+    ],
     "unicode_version": "",
     "ios_version": "10.2"
   },
@@ -7875,7 +8062,11 @@
     "aliases": [
       "saxophone"
     ],
-    "tags": [],
+    "tags": [
+      "saxophone",
+      "jazz",
+      "music"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -7886,7 +8077,9 @@
     "aliases": [
       "trumpet"
     ],
-    "tags": [],
+    "tags": [
+      "trumpet"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -7898,7 +8091,9 @@
       "guitar"
     ],
     "tags": [
-      "rock"
+      "rock",
+      "guitar",
+      "music"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -7910,7 +8105,11 @@
     "aliases": [
       "violin"
     ],
-    "tags": [],
+    "tags": [
+      "violin",
+      "classic",
+      "music"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -7923,7 +8122,8 @@
     ],
     "tags": [
       "dice",
-      "gambling"
+      "gambling",
+      "random"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -7948,7 +8148,9 @@
     "aliases": [
       "bowling"
     ],
-    "tags": [],
+    "tags": [
+      "bowling"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -7962,7 +8164,10 @@
     "tags": [
       "play",
       "controller",
-      "console"
+      "console",
+      "game",
+      "xbox",
+      "ps"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -7974,7 +8179,10 @@
     "aliases": [
       "slot_machine"
     ],
-    "tags": [],
+    "tags": [
+      "slot",
+      "casino"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -7986,7 +8194,11 @@
       "car",
       "red_car"
     ],
-    "tags": [],
+    "tags": [
+      "car",
+      "automobile",
+      "vehicle"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -7997,7 +8209,9 @@
     "aliases": [
       "taxi"
     ],
-    "tags": [],
+    "tags": [
+      "taxi"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8008,7 +8222,10 @@
     "aliases": [
       "blue_car"
     ],
-    "tags": [],
+    "tags": [
+      "car",
+      "vehicle"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8019,7 +8236,9 @@
     "aliases": [
       "bus"
     ],
-    "tags": [],
+    "tags": [
+      "bus"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8030,7 +8249,9 @@
     "aliases": [
       "trolleybus"
     ],
-    "tags": [],
+    "tags": [
+      "trolleybus"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8041,7 +8262,10 @@
     "aliases": [
       "racing_car"
     ],
-    "tags": [],
+    "tags": [
+      "racing",
+      "car"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -8052,7 +8276,9 @@
     "aliases": [
       "police_car"
     ],
-    "tags": [],
+    "tags": [
+      "police"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8063,7 +8289,9 @@
     "aliases": [
       "ambulance"
     ],
-    "tags": [],
+    "tags": [
+      "ambulance"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8074,7 +8302,9 @@
     "aliases": [
       "fire_engine"
     ],
-    "tags": [],
+    "tags": [
+      "fire"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8085,7 +8315,9 @@
     "aliases": [
       "minibus"
     ],
-    "tags": [],
+    "tags": [
+      "minibus"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8096,7 +8328,10 @@
     "aliases": [
       "truck"
     ],
-    "tags": [],
+    "tags": [
+      "truck",
+      "delivery"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8107,7 +8342,9 @@
     "aliases": [
       "articulated_lorry"
     ],
-    "tags": [],
+    "tags": [
+      "lorry"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8118,7 +8355,10 @@
     "aliases": [
       "tractor"
     ],
-    "tags": [],
+    "tags": [
+      "tractor",
+      "farm"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8129,7 +8369,9 @@
     "aliases": [
       "kick_scooter"
     ],
-    "tags": [],
+    "tags": [
+      "scooter"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -8141,7 +8383,8 @@
       "bike"
     ],
     "tags": [
-      "bicycle"
+      "bicycle",
+      "cycle"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -8153,7 +8396,9 @@
     "aliases": [
       "motor_scooter"
     ],
-    "tags": [],
+    "tags": [
+      "scooter"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -8164,7 +8409,9 @@
     "aliases": [
       "motorcycle"
     ],
-    "tags": [],
+    "tags": [
+      "motorcycle"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -8177,7 +8424,8 @@
     ],
     "tags": [
       "911",
-      "emergency"
+      "emergency",
+      "police"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -8189,7 +8437,9 @@
     "aliases": [
       "oncoming_police_car"
     ],
-    "tags": [],
+    "tags": [
+      "police"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8200,7 +8450,9 @@
     "aliases": [
       "oncoming_bus"
     ],
-    "tags": [],
+    "tags": [
+      "bus"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8211,7 +8463,9 @@
     "aliases": [
       "oncoming_automobile"
     ],
-    "tags": [],
+    "tags": [
+      "car"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8222,7 +8476,9 @@
     "aliases": [
       "oncoming_taxi"
     ],
-    "tags": [],
+    "tags": [
+      "taxi"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8233,7 +8489,9 @@
     "aliases": [
       "aerial_tramway"
     ],
-    "tags": [],
+    "tags": [
+      "tramway"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8244,7 +8502,9 @@
     "aliases": [
       "mountain_cableway"
     ],
-    "tags": [],
+    "tags": [
+      "cableway"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8255,7 +8515,9 @@
     "aliases": [
       "suspension_railway"
     ],
-    "tags": [],
+    "tags": [
+      "railway"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8266,7 +8528,9 @@
     "aliases": [
       "railway_car"
     ],
-    "tags": [],
+    "tags": [
+      "railway"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8277,7 +8541,9 @@
     "aliases": [
       "train"
     ],
-    "tags": [],
+    "tags": [
+      "tram"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8288,7 +8554,9 @@
     "aliases": [
       "mountain_railway"
     ],
-    "tags": [],
+    "tags": [
+      "railway"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8299,7 +8567,9 @@
     "aliases": [
       "monorail"
     ],
-    "tags": [],
+    "tags": [
+      "monorail"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8348,7 +8618,8 @@
       "steam_locomotive"
     ],
     "tags": [
-      "train"
+      "train",
+      "locomotive"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -8360,7 +8631,9 @@
     "aliases": [
       "train2"
     ],
-    "tags": [],
+    "tags": [
+      "train"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8371,7 +8644,9 @@
     "aliases": [
       "metro"
     ],
-    "tags": [],
+    "tags": [
+      "metro"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8382,7 +8657,9 @@
     "aliases": [
       "tram"
     ],
-    "tags": [],
+    "tags": [
+      "tram"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8393,7 +8670,9 @@
     "aliases": [
       "station"
     ],
-    "tags": [],
+    "tags": [
+      "station"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8404,7 +8683,9 @@
     "aliases": [
       "helicopter"
     ],
-    "tags": [],
+    "tags": [
+      "helicopter"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8416,7 +8697,8 @@
       "small_airplane"
     ],
     "tags": [
-      "flight"
+      "flight",
+      "airplane"
     ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
@@ -8429,7 +8711,9 @@
       "airplane"
     ],
     "tags": [
-      "flight"
+      "flight",
+      "airplane",
+      "travel"
     ],
     "unicode_version": "",
     "ios_version": "6.0"
@@ -8441,7 +8725,11 @@
     "aliases": [
       "flight_departure"
     ],
-    "tags": [],
+    "tags": [
+      "airplane",
+      "departure",
+      "travel"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -8452,7 +8740,10 @@
     "aliases": [
       "flight_arrival"
     ],
-    "tags": [],
+    "tags": [
+      "airplane",
+      "arrival"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -8464,8 +8755,11 @@
       "rocket"
     ],
     "tags": [
-      "ship",
-      "launch"
+      "launch",
+      "rocket",
+      "fly",
+      "fast",
+      "spaceship"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -8479,7 +8773,8 @@
     ],
     "tags": [
       "orbit",
-      "space"
+      "space",
+      "satellite"
     ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
@@ -8491,7 +8786,9 @@
     "aliases": [
       "seat"
     ],
-    "tags": [],
+    "tags": [
+      "seat"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8502,7 +8799,10 @@
     "aliases": [
       "canoe"
     ],
-    "tags": [],
+    "tags": [
+      "canoe",
+      "boat"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -8514,7 +8814,10 @@
       "boat",
       "sailboat"
     ],
-    "tags": [],
+    "tags": [
+      "sailboat",
+      "boat"
+    ],
     "unicode_version": "5.2",
     "ios_version": "6.0"
   },
@@ -8525,7 +8828,10 @@
     "aliases": [
       "motor_boat"
     ],
-    "tags": [],
+    "tags": [
+      "boat",
+      "yacht"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -8537,7 +8843,8 @@
       "speedboat"
     ],
     "tags": [
-      "ship"
+      "ship",
+      "boat"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -8550,7 +8857,8 @@
       "passenger_ship"
     ],
     "tags": [
-      "cruise"
+      "cruise",
+      "ship"
     ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
@@ -8562,7 +8870,10 @@
     "aliases": [
       "ferry"
     ],
-    "tags": [],
+    "tags": [
+      "ship",
+      "ferry"
+    ],
     "unicode_version": "5.2",
     "ios_version": "9.1"
   },
@@ -8573,7 +8884,9 @@
     "aliases": [
       "ship"
     ],
-    "tags": [],
+    "tags": [
+      "ship"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8585,7 +8898,8 @@
       "anchor"
     ],
     "tags": [
-      "ship"
+      "ship",
+      "anchor"
     ],
     "unicode_version": "4.1",
     "ios_version": "6.0"
@@ -8598,7 +8912,9 @@
       "construction"
     ],
     "tags": [
-      "wip"
+      "wip",
+      "construction",
+      "road"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -8610,7 +8926,10 @@
     "aliases": [
       "fuelpump"
     ],
-    "tags": [],
+    "tags": [
+      "fuel",
+      "petrol"
+    ],
     "unicode_version": "5.2",
     "ios_version": "6.0"
   },
@@ -8621,7 +8940,9 @@
     "aliases": [
       "busstop"
     ],
-    "tags": [],
+    "tags": [
+      "busstop"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8633,7 +8954,8 @@
       "vertical_traffic_light"
     ],
     "tags": [
-      "semaphore"
+      "semaphore",
+      "traffic"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -8645,7 +8967,10 @@
     "aliases": [
       "traffic_light"
     ],
-    "tags": [],
+    "tags": [
+      "traffic",
+      "semaphore"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8657,7 +8982,10 @@
       "world_map"
     ],
     "tags": [
-      "travel"
+      "travel",
+      "map",
+      "world",
+      "journey"
     ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
@@ -8670,7 +8998,8 @@
       "moyai"
     ],
     "tags": [
-      "stone"
+      "stone",
+      "moai"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -8682,7 +9011,11 @@
     "aliases": [
       "statue_of_liberty"
     ],
-    "tags": [],
+    "tags": [
+      "Liberty",
+      "america",
+      "statue"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8693,7 +9026,9 @@
     "aliases": [
       "fountain"
     ],
-    "tags": [],
+    "tags": [
+      "fountain"
+    ],
     "unicode_version": "5.2",
     "ios_version": "6.0"
   },
@@ -8704,7 +9039,9 @@
     "aliases": [
       "tokyo_tower"
     ],
-    "tags": [],
+    "tags": [
+      "tower"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8715,7 +9052,9 @@
     "aliases": [
       "european_castle"
     ],
-    "tags": [],
+    "tags": [
+      "castle"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8726,7 +9065,9 @@
     "aliases": [
       "japanese_castle"
     ],
-    "tags": [],
+    "tags": [
+      "castle"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8737,7 +9078,11 @@
     "aliases": [
       "stadium"
     ],
-    "tags": [],
+    "tags": [
+      "stadium",
+      "football",
+      "soccer"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -8748,7 +9093,10 @@
     "aliases": [
       "ferris_wheel"
     ],
-    "tags": [],
+    "tags": [
+      "wheel",
+      "rides"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8759,7 +9107,11 @@
     "aliases": [
       "roller_coaster"
     ],
-    "tags": [],
+    "tags": [
+      "roller",
+      "coaster",
+      "rides"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8770,7 +9122,9 @@
     "aliases": [
       "carousel_horse"
     ],
-    "tags": [],
+    "tags": [
+      "carousel"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8782,7 +9136,9 @@
       "parasol_on_ground"
     ],
     "tags": [
-      "beach_umbrella"
+      "umbrella",
+      "sun",
+      "beach"
     ],
     "unicode_version": "5.2",
     "ios_version": "9.1"
@@ -8794,7 +9150,12 @@
     "aliases": [
       "beach_umbrella"
     ],
-    "tags": [],
+    "tags": [
+      "beach_umbrella",
+      "umbrella",
+      "beach",
+      "vacation"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -8805,7 +9166,12 @@
     "aliases": [
       "desert_island"
     ],
-    "tags": [],
+    "tags": [
+      "island",
+      "palm",
+      "vacation",
+      "beach"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -8816,7 +9182,10 @@
     "aliases": [
       "mountain"
     ],
-    "tags": [],
+    "tags": [
+      "mountain",
+      "nature"
+    ],
     "unicode_version": "5.2",
     "ios_version": "9.1"
   },
@@ -8827,7 +9196,12 @@
     "aliases": [
       "mountain_snow"
     ],
-    "tags": [],
+    "tags": [
+      "snow",
+      "mountain",
+      "nature",
+      "ski"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -8838,7 +9212,10 @@
     "aliases": [
       "mount_fuji"
     ],
-    "tags": [],
+    "tags": [
+      "fuji",
+      "mount"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8849,7 +9226,10 @@
     "aliases": [
       "volcano"
     ],
-    "tags": [],
+    "tags": [
+      "volcano",
+      "hot"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8860,7 +9240,9 @@
     "aliases": [
       "desert"
     ],
-    "tags": [],
+    "tags": [
+      "desert"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -8871,7 +9253,11 @@
     "aliases": [
       "camping"
     ],
-    "tags": [],
+    "tags": [
+      "camping",
+      "tour",
+      "excursion"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -8883,7 +9269,8 @@
       "tent"
     ],
     "tags": [
-      "camping"
+      "camping",
+      "tent"
     ],
     "unicode_version": "5.2",
     "ios_version": "6.0"
@@ -8895,7 +9282,9 @@
     "aliases": [
       "railway_track"
     ],
-    "tags": [],
+    "tags": [
+      "railway"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -8906,7 +9295,9 @@
     "aliases": [
       "motorway"
     ],
-    "tags": [],
+    "tags": [
+      "motorway"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -8917,7 +9308,10 @@
     "aliases": [
       "building_construction"
     ],
-    "tags": [],
+    "tags": [
+      "construction",
+      "reconstruction"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -8928,7 +9322,9 @@
     "aliases": [
       "factory"
     ],
-    "tags": [],
+    "tags": [
+      "factory"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8939,7 +9335,10 @@
     "aliases": [
       "house"
     ],
-    "tags": [],
+    "tags": [
+      "house",
+      "home"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8950,7 +9349,11 @@
     "aliases": [
       "house_with_garden"
     ],
-    "tags": [],
+    "tags": [
+      "garden",
+      "house",
+      "villa"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8961,7 +9364,10 @@
     "aliases": [
       "houses"
     ],
-    "tags": [],
+    "tags": [
+      "house",
+      "villa"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -8983,7 +9389,10 @@
     "aliases": [
       "office"
     ],
-    "tags": [],
+    "tags": [
+      "office",
+      "building"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -8994,7 +9403,11 @@
     "aliases": [
       "department_store"
     ],
-    "tags": [],
+    "tags": [
+      "store",
+      "shop",
+      "department"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9005,7 +9418,10 @@
     "aliases": [
       "post_office"
     ],
-    "tags": [],
+    "tags": [
+      "post",
+      "office"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9016,7 +9432,9 @@
     "aliases": [
       "european_post_office"
     ],
-    "tags": [],
+    "tags": [
+      "office"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9027,7 +9445,11 @@
     "aliases": [
       "hospital"
     ],
-    "tags": [],
+    "tags": [
+      "hospital",
+      "emergency",
+      "clinic"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9038,7 +9460,9 @@
     "aliases": [
       "bank"
     ],
-    "tags": [],
+    "tags": [
+      "bank"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9049,7 +9473,11 @@
     "aliases": [
       "hotel"
     ],
-    "tags": [],
+    "tags": [
+      "hotel",
+      "inn",
+      "guesthouse"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9071,7 +9499,9 @@
     "aliases": [
       "school"
     ],
-    "tags": [],
+    "tags": [
+      "school"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9082,7 +9512,9 @@
     "aliases": [
       "love_hotel"
     ],
-    "tags": [],
+    "tags": [
+      "hotel"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9094,7 +9526,8 @@
       "wedding"
     ],
     "tags": [
-      "marriage"
+      "marriage",
+      "wedding"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9106,7 +9539,9 @@
     "aliases": [
       "classical_building"
     ],
-    "tags": [],
+    "tags": [
+      "ancient"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -9117,7 +9552,9 @@
     "aliases": [
       "church"
     ],
-    "tags": [],
+    "tags": [
+      "church"
+    ],
     "unicode_version": "5.2",
     "ios_version": "6.0"
   },
@@ -9128,7 +9565,9 @@
     "aliases": [
       "mosque"
     ],
-    "tags": [],
+    "tags": [
+      "mosque"
+    ],
     "unicode_version": "8.0",
     "ios_version": "9.1"
   },
@@ -9139,7 +9578,9 @@
     "aliases": [
       "synagogue"
     ],
-    "tags": [],
+    "tags": [
+      "synagogue"
+    ],
     "unicode_version": "8.0",
     "ios_version": "9.1"
   },
@@ -9150,7 +9591,9 @@
     "aliases": [
       "kaaba"
     ],
-    "tags": [],
+    "tags": [
+      "kaaba"
+    ],
     "unicode_version": "8.0",
     "ios_version": "9.1"
   },
@@ -9161,7 +9604,10 @@
     "aliases": [
       "shinto_shrine"
     ],
-    "tags": [],
+    "tags": [
+      "shinto",
+      "shrine"
+    ],
     "unicode_version": "5.2",
     "ios_version": "9.1"
   },
@@ -9172,7 +9618,9 @@
     "aliases": [
       "japan"
     ],
-    "tags": [],
+    "tags": [
+      "japan"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9194,7 +9642,9 @@
     "aliases": [
       "national_park"
     ],
-    "tags": [],
+    "tags": [
+      "park"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -9205,7 +9655,11 @@
     "aliases": [
       "sunrise"
     ],
-    "tags": [],
+    "tags": [
+      "sun",
+      "sunrise",
+      "sunset"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9216,7 +9670,9 @@
     "aliases": [
       "sunrise_over_mountains"
     ],
-    "tags": [],
+    "tags": [
+      "nature"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9227,7 +9683,9 @@
     "aliases": [
       "stars"
     ],
-    "tags": [],
+    "tags": [
+      "star"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9238,7 +9696,9 @@
     "aliases": [
       "sparkler"
     ],
-    "tags": [],
+    "tags": [
+      "sparkler"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9251,7 +9711,8 @@
     ],
     "tags": [
       "festival",
-      "celebration"
+      "celebration",
+      "fireworks"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9263,7 +9724,10 @@
     "aliases": [
       "city_sunrise"
     ],
-    "tags": [],
+    "tags": [
+      "city",
+      "sunset"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9298,7 +9762,9 @@
     "aliases": [
       "night_with_stars"
     ],
-    "tags": [],
+    "tags": [
+      "night"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9309,7 +9775,9 @@
     "aliases": [
       "milky_way"
     ],
-    "tags": [],
+    "tags": [
+      "galaxy"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9320,7 +9788,10 @@
     "aliases": [
       "bridge_at_night"
     ],
-    "tags": [],
+    "tags": [
+      "bridge",
+      "night"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9332,7 +9803,8 @@
       "foggy"
     ],
     "tags": [
-      "karl"
+      "karl",
+      "foggy"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9345,7 +9817,9 @@
       "watch"
     ],
     "tags": [
-      "time"
+      "time",
+      "watch",
+      "applewatch"
     ],
     "unicode_version": "",
     "ios_version": "6.0"
@@ -9359,7 +9833,9 @@
     ],
     "tags": [
       "smartphone",
-      "mobile"
+      "mobile",
+      "phone",
+      "iphone"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9373,7 +9849,8 @@
     ],
     "tags": [
       "call",
-      "incoming"
+      "incoming",
+      "calling"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9387,7 +9864,9 @@
     ],
     "tags": [
       "desktop",
-      "screen"
+      "screen",
+      "laptop",
+      "macbook"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9399,7 +9878,9 @@
     "aliases": [
       "keyboard"
     ],
-    "tags": [],
+    "tags": [
+      "keyboard"
+    ],
     "unicode_version": "",
     "ios_version": "9.1"
   },
@@ -9410,7 +9891,10 @@
     "aliases": [
       "desktop_computer"
     ],
-    "tags": [],
+    "tags": [
+      "desktop",
+      "computer"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -9421,7 +9905,10 @@
     "aliases": [
       "printer"
     ],
-    "tags": [],
+    "tags": [
+      "printer",
+      "print"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -9432,7 +9919,9 @@
     "aliases": [
       "computer_mouse"
     ],
-    "tags": [],
+    "tags": [
+      "mouse"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -9443,7 +9932,9 @@
     "aliases": [
       "trackball"
     ],
-    "tags": [],
+    "tags": [
+      "trackball"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -9454,7 +9945,11 @@
     "aliases": [
       "joystick"
     ],
-    "tags": [],
+    "tags": [
+      "joystick",
+      "play",
+      "game"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -9465,7 +9960,9 @@
     "aliases": [
       "clamp"
     ],
-    "tags": [],
+    "tags": [
+      "clamp"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -9476,7 +9973,10 @@
     "aliases": [
       "minidisc"
     ],
-    "tags": [],
+    "tags": [
+      "disk",
+      "cd"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9488,7 +9988,9 @@
       "floppy_disk"
     ],
     "tags": [
-      "save"
+      "save",
+      "floppy",
+      "disk"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9500,7 +10002,10 @@
     "aliases": [
       "cd"
     ],
-    "tags": [],
+    "tags": [
+      "disk",
+      "cd"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9511,7 +10016,9 @@
     "aliases": [
       "dvd"
     ],
-    "tags": [],
+    "tags": [
+      "dvd"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9522,7 +10029,10 @@
     "aliases": [
       "vhs"
     ],
-    "tags": [],
+    "tags": [
+      "videocassette",
+      "retro"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9534,7 +10044,8 @@
       "camera"
     ],
     "tags": [
-      "photo"
+      "photo",
+      "camera"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9547,7 +10058,9 @@
       "camera_flash"
     ],
     "tags": [
-      "photo"
+      "photo",
+      "flash",
+      "camera"
     ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
@@ -9559,7 +10072,10 @@
     "aliases": [
       "video_camera"
     ],
-    "tags": [],
+    "tags": [
+      "video",
+      "camera"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9572,7 +10088,9 @@
     ],
     "tags": [
       "film",
-      "video"
+      "video",
+      "movie",
+      "camera"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9584,7 +10102,11 @@
     "aliases": [
       "film_projector"
     ],
-    "tags": [],
+    "tags": [
+      "projector",
+      "film",
+      "movie"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -9595,7 +10117,10 @@
     "aliases": [
       "film_strip"
     ],
-    "tags": [],
+    "tags": [
+      "frames",
+      "film"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -9608,7 +10133,8 @@
     ],
     "tags": [
       "phone",
-      "call"
+      "call",
+      "telephone"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9621,7 +10147,9 @@
       "phone",
       "telephone"
     ],
-    "tags": [],
+    "tags": [
+      "telephone"
+    ],
     "unicode_version": "",
     "ios_version": "6.0"
   },
@@ -9632,7 +10160,9 @@
     "aliases": [
       "pager"
     ],
-    "tags": [],
+    "tags": [
+      "pager"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9643,7 +10173,9 @@
     "aliases": [
       "fax"
     ],
-    "tags": [],
+    "tags": [
+      "fax"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9654,7 +10186,11 @@
     "aliases": [
       "tv"
     ],
-    "tags": [],
+    "tags": [
+      "tv",
+      "television",
+      "show"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9666,7 +10202,8 @@
       "radio"
     ],
     "tags": [
-      "podcast"
+      "podcast",
+      "radio"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9679,7 +10216,8 @@
       "studio_microphone"
     ],
     "tags": [
-      "podcast"
+      "podcast",
+      "microphone"
     ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
@@ -9691,7 +10229,9 @@
     "aliases": [
       "level_slider"
     ],
-    "tags": [],
+    "tags": [
+      "slider"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -9702,7 +10242,9 @@
     "aliases": [
       "control_knobs"
     ],
-    "tags": [],
+    "tags": [
+      "knobs"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -9713,7 +10255,9 @@
     "aliases": [
       "stopwatch"
     ],
-    "tags": [],
+    "tags": [
+      "stopwatch"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.1"
   },
@@ -9724,7 +10268,9 @@
     "aliases": [
       "timer_clock"
     ],
-    "tags": [],
+    "tags": [
+      "timer"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.1"
   },
@@ -9736,7 +10282,9 @@
       "alarm_clock"
     ],
     "tags": [
-      "morning"
+      "morning",
+      "alarm",
+      "clock"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9748,7 +10296,9 @@
     "aliases": [
       "mantelpiece_clock"
     ],
-    "tags": [],
+    "tags": [
+      "mantelpiece"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -9760,7 +10310,9 @@
       "hourglass"
     ],
     "tags": [
-      "time"
+      "time",
+      "hourglass",
+      "sand"
     ],
     "unicode_version": "",
     "ios_version": "6.0"
@@ -9773,7 +10325,8 @@
       "hourglass_flowing_sand"
     ],
     "tags": [
-      "time"
+      "time",
+      "hourglass"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9786,7 +10339,8 @@
       "satellite"
     ],
     "tags": [
-      "signal"
+      "signal",
+      "satellite"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9799,7 +10353,8 @@
       "battery"
     ],
     "tags": [
-      "power"
+      "power",
+      "battery"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9811,7 +10366,9 @@
     "aliases": [
       "electric_plug"
     ],
-    "tags": [],
+    "tags": [
+      "plug"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9824,7 +10381,8 @@
     ],
     "tags": [
       "idea",
-      "light"
+      "light",
+      "bulb"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9836,7 +10394,9 @@
     "aliases": [
       "flashlight"
     ],
-    "tags": [],
+    "tags": [
+      "flashlight"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9847,7 +10407,9 @@
     "aliases": [
       "candle"
     ],
-    "tags": [],
+    "tags": [
+      "candle"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -9859,7 +10421,8 @@
       "wastebasket"
     ],
     "tags": [
-      "trash"
+      "trash",
+      "wastebasket"
     ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
@@ -9871,7 +10434,10 @@
     "aliases": [
       "oil_drum"
     ],
-    "tags": [],
+    "tags": [
+      "drum",
+      "oil"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -9883,7 +10449,9 @@
       "money_with_wings"
     ],
     "tags": [
-      "dollar"
+      "dollar",
+      "money",
+      "wings"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9896,7 +10464,9 @@
       "dollar"
     ],
     "tags": [
-      "money"
+      "money",
+      "dollar",
+      "banknote"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9908,7 +10478,9 @@
     "aliases": [
       "yen"
     ],
-    "tags": [],
+    "tags": [
+      "yen"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9919,7 +10491,9 @@
     "aliases": [
       "euro"
     ],
-    "tags": [],
+    "tags": [
+      "euro"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9930,7 +10504,9 @@
     "aliases": [
       "pound"
     ],
-    "tags": [],
+    "tags": [
+      "pound"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -9943,7 +10519,9 @@
     ],
     "tags": [
       "dollar",
-      "cream"
+      "cream",
+      "money",
+      "rich"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9956,7 +10534,9 @@
       "credit_card"
     ],
     "tags": [
-      "subscription"
+      "subscription",
+      "credit",
+      "card"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9969,7 +10549,9 @@
       "gem"
     ],
     "tags": [
-      "diamond"
+      "diamond",
+      "gem",
+      "luxury"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -9981,7 +10563,11 @@
     "aliases": [
       "balance_scale"
     ],
-    "tags": [],
+    "tags": [
+      "balance",
+      "law",
+      "scale"
+    ],
     "unicode_version": "4.1",
     "ios_version": "9.1"
   },
@@ -9993,7 +10579,9 @@
       "wrench"
     ],
     "tags": [
-      "tool"
+      "tool",
+      "wrench",
+      "tools"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10006,7 +10594,9 @@
       "hammer"
     ],
     "tags": [
-      "tool"
+      "tool",
+      "tools",
+      "hammer"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10018,7 +10608,11 @@
     "aliases": [
       "hammer_and_pick"
     ],
-    "tags": [],
+    "tags": [
+      "hammer",
+      "tool",
+      "tools"
+    ],
     "unicode_version": "4.1",
     "ios_version": "9.1"
   },
@@ -10029,7 +10623,11 @@
     "aliases": [
       "hammer_and_wrench"
     ],
-    "tags": [],
+    "tags": [
+      "tools",
+      "hammer",
+      "wrench"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -10040,7 +10638,11 @@
     "aliases": [
       "pick"
     ],
-    "tags": [],
+    "tags": [
+      "pick",
+      "tool",
+      "tools"
+    ],
     "unicode_version": "5.2",
     "ios_version": "9.1"
   },
@@ -10051,7 +10653,9 @@
     "aliases": [
       "nut_and_bolt"
     ],
-    "tags": [],
+    "tags": [
+      "bolt"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -10062,7 +10666,11 @@
     "aliases": [
       "gear"
     ],
-    "tags": [],
+    "tags": [
+      "gear",
+      "settings",
+      "configuration"
+    ],
     "unicode_version": "4.1",
     "ios_version": "9.1"
   },
@@ -10073,7 +10681,10 @@
     "aliases": [
       "chains"
     ],
-    "tags": [],
+    "tags": [
+      "chains",
+      "chain"
+    ],
     "unicode_version": "5.2",
     "ios_version": "9.1"
   },
@@ -10086,7 +10697,11 @@
     ],
     "tags": [
       "shoot",
-      "weapon"
+      "weapon",
+      "pistol",
+      "watergun",
+      "water",
+      "summer"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10099,7 +10714,9 @@
       "bomb"
     ],
     "tags": [
-      "boom"
+      "boom",
+      "bomb",
+      "explosion"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10114,7 +10731,9 @@
     ],
     "tags": [
       "cut",
-      "chop"
+      "chop",
+      "kitchen",
+      "knife"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10126,7 +10745,10 @@
     "aliases": [
       "dagger"
     ],
-    "tags": [],
+    "tags": [
+      "dagger",
+      "sword"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -10137,7 +10759,10 @@
     "aliases": [
       "crossed_swords"
     ],
-    "tags": [],
+    "tags": [
+      "sword",
+      "swords"
+    ],
     "unicode_version": "4.1",
     "ios_version": "9.1"
   },
@@ -10148,7 +10773,10 @@
     "aliases": [
       "shield"
     ],
-    "tags": [],
+    "tags": [
+      "shield",
+      "Knight"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -10160,7 +10788,8 @@
       "smoking"
     ],
     "tags": [
-      "cigarette"
+      "cigarette",
+      "smoking"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10173,7 +10802,8 @@
       "coffin"
     ],
     "tags": [
-      "funeral"
+      "funeral",
+      "coffin"
     ],
     "unicode_version": "4.1",
     "ios_version": "9.1"
@@ -10185,7 +10815,9 @@
     "aliases": [
       "funeral_urn"
     ],
-    "tags": [],
+    "tags": [
+      "funeral"
+    ],
     "unicode_version": "4.1",
     "ios_version": "9.1"
   },
@@ -10196,7 +10828,9 @@
     "aliases": [
       "amphora"
     ],
-    "tags": [],
+    "tags": [
+      "amphora"
+    ],
     "unicode_version": "8.0",
     "ios_version": "9.1"
   },
@@ -10208,7 +10842,9 @@
       "crystal_ball"
     ],
     "tags": [
-      "fortune"
+      "fortune",
+      "ball",
+      "magic"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10242,7 +10878,9 @@
     "aliases": [
       "alembic"
     ],
-    "tags": [],
+    "tags": [
+      "alembic"
+    ],
     "unicode_version": "4.1",
     "ios_version": "9.1"
   },
@@ -10253,7 +10891,13 @@
     "aliases": [
       "telescope"
     ],
-    "tags": [],
+    "tags": [
+      "telescope",
+      "cosmos",
+      "stars",
+      "space",
+      "zoom"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -10267,7 +10911,9 @@
     "tags": [
       "science",
       "laboratory",
-      "investigate"
+      "investigate",
+      "microscope",
+      "zoom"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10279,7 +10925,9 @@
     "aliases": [
       "hole"
     ],
-    "tags": [],
+    "tags": [
+      "hole"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -10292,7 +10940,8 @@
     ],
     "tags": [
       "health",
-      "medicine"
+      "medicine",
+      "pill"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10307,7 +10956,8 @@
     "tags": [
       "health",
       "hospital",
-      "needle"
+      "needle",
+      "medicine"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10319,7 +10969,10 @@
     "aliases": [
       "thermometer"
     ],
-    "tags": [],
+    "tags": [
+      "thermometer",
+      "sick"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -10331,7 +10984,8 @@
       "toilet"
     ],
     "tags": [
-      "wc"
+      "wc",
+      "toilet"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10343,7 +10997,10 @@
     "aliases": [
       "potable_water"
     ],
-    "tags": [],
+    "tags": [
+      "water",
+      "glass"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -10355,7 +11012,9 @@
       "shower"
     ],
     "tags": [
-      "bath"
+      "bath",
+      "shower",
+      "morning"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10367,7 +11026,9 @@
     "aliases": [
       "bathtub"
     ],
-    "tags": [],
+    "tags": [
+      "bathtub"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -10379,7 +11040,9 @@
       "bath"
     ],
     "tags": [
-      "shower"
+      "shower",
+      "bath",
+      "bathtub"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10391,7 +11054,12 @@
     "aliases": [
       "bellhop_bell"
     ],
-    "tags": [],
+    "tags": [
+      "bell",
+      "ding",
+      "dong",
+      "ding-dong"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -10404,7 +11072,8 @@
     ],
     "tags": [
       "lock",
-      "password"
+      "password",
+      "secure"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10416,7 +11085,9 @@
     "aliases": [
       "old_key"
     ],
-    "tags": [],
+    "tags": [
+      "key"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -10427,7 +11098,9 @@
     "aliases": [
       "door"
     ],
-    "tags": [],
+    "tags": [
+      "door"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -10438,7 +11111,11 @@
     "aliases": [
       "couch_and_lamp"
     ],
-    "tags": [],
+    "tags": [
+      "couch",
+      "lamp",
+      "cozy"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -10449,7 +11126,10 @@
     "aliases": [
       "bed"
     ],
-    "tags": [],
+    "tags": [
+      "bed",
+      "sleep"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -10460,7 +11140,10 @@
     "aliases": [
       "sleeping_bed"
     ],
-    "tags": [],
+    "tags": [
+      "bed",
+      "sleeping"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -10471,7 +11154,9 @@
     "aliases": [
       "framed_picture"
     ],
-    "tags": [],
+    "tags": [
+      "picture"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -10483,7 +11168,8 @@
       "shopping"
     ],
     "tags": [
-      "bags"
+      "bags",
+      "shopping"
     ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
@@ -10495,7 +11181,11 @@
     "aliases": [
       "shopping_cart"
     ],
-    "tags": [],
+    "tags": [
+      "shopping",
+      "trolley",
+      "cart"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -10509,7 +11199,8 @@
     "tags": [
       "present",
       "birthday",
-      "christmas"
+      "christmas",
+      "gift"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10523,7 +11214,9 @@
     ],
     "tags": [
       "party",
-      "birthday"
+      "birthday",
+      "balloon",
+      "helium"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10546,7 +11239,9 @@
     "aliases": [
       "ribbon"
     ],
-    "tags": [],
+    "tags": [
+      "ribbon"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -10557,7 +11252,12 @@
     "aliases": [
       "confetti_ball"
     ],
-    "tags": [],
+    "tags": [
+      "party",
+      "celebration",
+      "birthday",
+      "christmas"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -10570,7 +11270,11 @@
     ],
     "tags": [
       "hooray",
-      "party"
+      "party",
+      "celebration",
+      "tada",
+      "birthday",
+      "christmas"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10594,7 +11298,9 @@
       "izakaya_lantern",
       "lantern"
     ],
-    "tags": [],
+    "tags": [
+      "lantern"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -10618,7 +11324,10 @@
       "envelope"
     ],
     "tags": [
-      "letter"
+      "letter",
+      "envelope",
+      "mail",
+      "email"
     ],
     "unicode_version": "",
     "ios_version": "6.0"
@@ -10630,7 +11339,9 @@
     "aliases": [
       "envelope_with_arrow"
     ],
-    "tags": [],
+    "tags": [
+      "envelope"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -10641,7 +11352,13 @@
     "aliases": [
       "incoming_envelope"
     ],
-    "tags": [],
+    "tags": [
+      "envelope",
+      "post",
+      "mail",
+      "email",
+      "inbox"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -10652,7 +11369,9 @@
     "aliases": [
       "e-mail"
     ],
-    "tags": [],
+    "tags": [
+      "email"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -10665,7 +11384,8 @@
     ],
     "tags": [
       "email",
-      "envelope"
+      "envelope",
+      "mail"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10677,7 +11397,9 @@
     "aliases": [
       "inbox_tray"
     ],
-    "tags": [],
+    "tags": [
+      "inbox"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -10688,7 +11410,9 @@
     "aliases": [
       "outbox_tray"
     ],
-    "tags": [],
+    "tags": [
+      "outbox"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -10700,7 +11424,9 @@
       "package"
     ],
     "tags": [
-      "shipping"
+      "shipping",
+      "package",
+      "delivery"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10713,7 +11439,8 @@
       "label"
     ],
     "tags": [
-      "tag"
+      "tag",
+      "label"
     ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
@@ -10725,7 +11452,9 @@
     "aliases": [
       "mailbox_closed"
     ],
-    "tags": [],
+    "tags": [
+      "mailbox"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -10736,7 +11465,9 @@
     "aliases": [
       "mailbox"
     ],
-    "tags": [],
+    "tags": [
+      "mailbox"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -10747,7 +11478,9 @@
     "aliases": [
       "mailbox_with_mail"
     ],
-    "tags": [],
+    "tags": [
+      "mailbox"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -10758,7 +11491,9 @@
     "aliases": [
       "mailbox_with_no_mail"
     ],
-    "tags": [],
+    "tags": [
+      "mailbox"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -10769,7 +11504,9 @@
     "aliases": [
       "postbox"
     ],
-    "tags": [],
+    "tags": [
+      "postbox"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -10804,7 +11541,11 @@
     "aliases": [
       "page_with_curl"
     ],
-    "tags": [],
+    "tags": [
+      "paper",
+      "document",
+      "page"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -10816,7 +11557,9 @@
       "page_facing_up"
     ],
     "tags": [
-      "document"
+      "document",
+      "page",
+      "paper"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10828,7 +11571,10 @@
     "aliases": [
       "bookmark_tabs"
     ],
-    "tags": [],
+    "tags": [
+      "papers",
+      "documents"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -10841,7 +11587,9 @@
     ],
     "tags": [
       "stats",
-      "metrics"
+      "metrics",
+      "statistics",
+      "chart"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10855,7 +11603,11 @@
     ],
     "tags": [
       "graph",
-      "metrics"
+      "metrics",
+      "chart",
+      "statistics",
+      "metrics",
+      "stats"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10869,7 +11621,9 @@
     ],
     "tags": [
       "graph",
-      "metrics"
+      "metrics",
+      "statistics",
+      "stats"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10881,7 +11635,9 @@
     "aliases": [
       "spiral_notepad"
     ],
-    "tags": [],
+    "tags": [
+      "notepad"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -10892,7 +11648,10 @@
     "aliases": [
       "spiral_calendar"
     ],
-    "tags": [],
+    "tags": [
+      "calendar",
+      "date"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -10904,7 +11663,8 @@
       "calendar"
     ],
     "tags": [
-      "schedule"
+      "schedule",
+      "calendar"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10941,7 +11701,9 @@
     "aliases": [
       "card_file_box"
     ],
-    "tags": [],
+    "tags": [
+      "files"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -10963,7 +11725,9 @@
     "aliases": [
       "file_cabinet"
     ],
-    "tags": [],
+    "tags": [
+      "files"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -10974,7 +11738,12 @@
     "aliases": [
       "clipboard"
     ],
-    "tags": [],
+    "tags": [
+      "clipboard",
+      "copy",
+      "paste",
+      "file"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -10986,7 +11755,8 @@
       "file_folder"
     ],
     "tags": [
-      "directory"
+      "directory",
+      "folder"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -10998,7 +11768,9 @@
     "aliases": [
       "open_file_folder"
     ],
-    "tags": [],
+    "tags": [
+      "folder"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11009,7 +11781,9 @@
     "aliases": [
       "card_index_dividers"
     ],
-    "tags": [],
+    "tags": [
+      "docs"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -11021,7 +11795,8 @@
       "newspaper_roll"
     ],
     "tags": [
-      "press"
+      "press",
+      "newspaper"
     ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
@@ -11034,7 +11809,9 @@
       "newspaper"
     ],
     "tags": [
-      "press"
+      "press",
+      "newspaper",
+      "news"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -11046,7 +11823,9 @@
     "aliases": [
       "notebook"
     ],
-    "tags": [],
+    "tags": [
+      "notebook"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11057,7 +11836,9 @@
     "aliases": [
       "notebook_with_decorative_cover"
     ],
-    "tags": [],
+    "tags": [
+      "notebook"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11068,7 +11849,9 @@
     "aliases": [
       "ledger"
     ],
-    "tags": [],
+    "tags": [
+      "ledger"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11079,7 +11862,11 @@
     "aliases": [
       "closed_book"
     ],
-    "tags": [],
+    "tags": [
+      "book",
+      "read",
+      "reading"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11090,7 +11877,11 @@
     "aliases": [
       "green_book"
     ],
-    "tags": [],
+    "tags": [
+      "book",
+      "read",
+      "reading"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11101,7 +11892,9 @@
     "aliases": [
       "blue_book"
     ],
-    "tags": [],
+    "tags": [
+      "book"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11112,7 +11905,9 @@
     "aliases": [
       "orange_book"
     ],
-    "tags": [],
+    "tags": [
+      "book"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11124,7 +11919,10 @@
       "books"
     ],
     "tags": [
-      "library"
+      "library",
+      "books",
+      "read",
+      "reading"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -11137,7 +11935,10 @@
       "book",
       "open_book"
     ],
-    "tags": [],
+    "tags": [
+      "book",
+      "read"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11148,7 +11949,9 @@
     "aliases": [
       "bookmark"
     ],
-    "tags": [],
+    "tags": [
+      "bookmark"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11159,7 +11962,11 @@
     "aliases": [
       "link"
     ],
-    "tags": [],
+    "tags": [
+      "link",
+      "url",
+      "hyperlink"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11170,7 +11977,10 @@
     "aliases": [
       "paperclip"
     ],
-    "tags": [],
+    "tags": [
+      "paperclip",
+      "paper"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11181,7 +11991,9 @@
     "aliases": [
       "paperclips"
     ],
-    "tags": [],
+    "tags": [
+      "paperclips"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -11192,7 +12004,10 @@
     "aliases": [
       "triangular_ruler"
     ],
-    "tags": [],
+    "tags": [
+      "triangular",
+      "ruler"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11203,7 +12018,9 @@
     "aliases": [
       "straight_ruler"
     ],
-    "tags": [],
+    "tags": [
+      "ruler"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11215,7 +12032,9 @@
       "pushpin"
     ],
     "tags": [
-      "location"
+      "location",
+      "pushpin",
+      "pin"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -11228,7 +12047,9 @@
       "round_pushpin"
     ],
     "tags": [
-      "location"
+      "location",
+      "pin",
+      "pushpin"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -11241,7 +12062,8 @@
       "scissors"
     ],
     "tags": [
-      "cut"
+      "cut",
+      "scissors"
     ],
     "unicode_version": "",
     "ios_version": "6.0"
@@ -11253,7 +12075,11 @@
     "aliases": [
       "pen"
     ],
-    "tags": [],
+    "tags": [
+      "pen",
+      "write",
+      "writing"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -11264,7 +12090,12 @@
     "aliases": [
       "fountain_pen"
     ],
-    "tags": [],
+    "tags": [
+      "pen",
+      "writer",
+      "writing",
+      "write"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -11275,7 +12106,9 @@
     "aliases": [
       "black_nib"
     ],
-    "tags": [],
+    "tags": [
+      "pen"
+    ],
     "unicode_version": "",
     "ios_version": "6.0"
   },
@@ -11286,7 +12119,11 @@
     "aliases": [
       "paintbrush"
     ],
-    "tags": [],
+    "tags": [
+      "paintbrush",
+      "paint",
+      "brush"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -11297,7 +12134,10 @@
     "aliases": [
       "crayon"
     ],
-    "tags": [],
+    "tags": [
+      "crayon",
+      "paint"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -11311,7 +12151,8 @@
     ],
     "tags": [
       "document",
-      "note"
+      "note",
+      "memo"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -11323,7 +12164,10 @@
     "aliases": [
       "pencil2"
     ],
-    "tags": [],
+    "tags": [
+      "pencil",
+      "edit"
+    ],
     "unicode_version": "",
     "ios_version": "6.0"
   },
@@ -11336,7 +12180,8 @@
     ],
     "tags": [
       "search",
-      "zoom"
+      "zoom",
+      "mag"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -11371,7 +12216,9 @@
       "closed_lock_with_key"
     ],
     "tags": [
-      "security"
+      "security",
+      "locked",
+      "lock"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -11385,7 +12232,9 @@
     ],
     "tags": [
       "security",
-      "private"
+      "private",
+      "locked",
+      "lock"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -11398,7 +12247,8 @@
       "unlock"
     ],
     "tags": [
-      "security"
+      "security",
+      "unlocked"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -11411,7 +12261,8 @@
       "heart"
     ],
     "tags": [
-      "love"
+      "love",
+      "heart"
     ],
     "unicode_version": "",
     "ios_version": "6.0"
@@ -11423,7 +12274,10 @@
     "aliases": [
       "yellow_heart"
     ],
-    "tags": [],
+    "tags": [
+      "love",
+      "heart"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11434,7 +12288,9 @@
     "aliases": [
       "green_heart"
     ],
-    "tags": [],
+    "tags": [
+      "heart"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11445,7 +12301,9 @@
     "aliases": [
       "blue_heart"
     ],
-    "tags": [],
+    "tags": [
+      "heart"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11456,7 +12314,9 @@
     "aliases": [
       "purple_heart"
     ],
-    "tags": [],
+    "tags": [
+      "heart"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11467,7 +12327,9 @@
     "aliases": [
       "black_heart"
     ],
-    "tags": [],
+    "tags": [
+      "heart"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -11478,7 +12340,9 @@
     "aliases": [
       "broken_heart"
     ],
-    "tags": [],
+    "tags": [
+      "broken"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11500,7 +12364,9 @@
     "aliases": [
       "two_hearts"
     ],
-    "tags": [],
+    "tags": [
+      "love"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11511,7 +12377,9 @@
     "aliases": [
       "revolving_hearts"
     ],
-    "tags": [],
+    "tags": [
+      "hearts"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11522,7 +12390,9 @@
     "aliases": [
       "heartbeat"
     ],
-    "tags": [],
+    "tags": [
+      "beating"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11544,7 +12414,9 @@
     "aliases": [
       "sparkling_heart"
     ],
-    "tags": [],
+    "tags": [
+      "inlove"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -11593,7 +12465,9 @@
     "aliases": [
       "peace_symbol"
     ],
-    "tags": [],
+    "tags": [
+      "peace"
+    ],
     "unicode_version": "",
     "ios_version": "9.1"
   },
@@ -11681,7 +12555,10 @@
     "aliases": [
       "yin_yang"
     ],
-    "tags": [],
+    "tags": [
+      "yang",
+      "yin"
+    ],
     "unicode_version": "",
     "ios_version": "9.1"
   },
@@ -11725,7 +12602,9 @@
     "aliases": [
       "aries"
     ],
-    "tags": [],
+    "tags": [
+      "Aries"
+    ],
     "unicode_version": "",
     "ios_version": "6.0"
   },
@@ -11736,7 +12615,9 @@
     "aliases": [
       "taurus"
     ],
-    "tags": [],
+    "tags": [
+      "Taurus"
+    ],
     "unicode_version": "",
     "ios_version": "6.0"
   },
@@ -11747,7 +12628,9 @@
     "aliases": [
       "gemini"
     ],
-    "tags": [],
+    "tags": [
+      "Gemini"
+    ],
     "unicode_version": "",
     "ios_version": "6.0"
   },
@@ -11758,7 +12641,9 @@
     "aliases": [
       "cancer"
     ],
-    "tags": [],
+    "tags": [
+      "Cancer"
+    ],
     "unicode_version": "",
     "ios_version": "6.0"
   },
@@ -11769,7 +12654,9 @@
     "aliases": [
       "leo"
     ],
-    "tags": [],
+    "tags": [
+      "Leo"
+    ],
     "unicode_version": "",
     "ios_version": "6.0"
   },
@@ -11780,7 +12667,9 @@
     "aliases": [
       "virgo"
     ],
-    "tags": [],
+    "tags": [
+      "Virgo"
+    ],
     "unicode_version": "",
     "ios_version": "6.0"
   },
@@ -11791,7 +12680,9 @@
     "aliases": [
       "libra"
     ],
-    "tags": [],
+    "tags": [
+      "Libra"
+    ],
     "unicode_version": "",
     "ios_version": "6.0"
   },
@@ -11802,7 +12693,10 @@
     "aliases": [
       "scorpius"
     ],
-    "tags": [],
+    "tags": [
+      "Scorpius",
+      "scorpion"
+    ],
     "unicode_version": "",
     "ios_version": "6.0"
   },
@@ -11813,7 +12707,9 @@
     "aliases": [
       "sagittarius"
     ],
-    "tags": [],
+    "tags": [
+      "sagittarius"
+    ],
     "unicode_version": "",
     "ios_version": "6.0"
   },
@@ -11824,7 +12720,9 @@
     "aliases": [
       "capricorn"
     ],
-    "tags": [],
+    "tags": [
+      "capricorn"
+    ],
     "unicode_version": "",
     "ios_version": "6.0"
   },
@@ -11835,7 +12733,9 @@
     "aliases": [
       "aquarius"
     ],
-    "tags": [],
+    "tags": [
+      "aquarius"
+    ],
     "unicode_version": "",
     "ios_version": "6.0"
   },
@@ -11846,7 +12746,9 @@
     "aliases": [
       "pisces"
     ],
-    "tags": [],
+    "tags": [
+      "pisces"
+    ],
     "unicode_version": "",
     "ios_version": "6.0"
   },
@@ -11868,7 +12770,9 @@
     "aliases": [
       "atom_symbol"
     ],
-    "tags": [],
+    "tags": [
+      "atom"
+    ],
     "unicode_version": "4.1",
     "ios_version": "9.1"
   },
@@ -11890,7 +12794,9 @@
     "aliases": [
       "radioactive"
     ],
-    "tags": [],
+    "tags": [
+      "radioactive"
+    ],
     "unicode_version": "",
     "ios_version": "9.1"
   },
@@ -11901,7 +12807,9 @@
     "aliases": [
       "biohazard"
     ],
-    "tags": [],
+    "tags": [
+      "biohazard"
+    ],
     "unicode_version": "",
     "ios_version": "9.1"
   },
@@ -11926,7 +12834,9 @@
     "aliases": [
       "vibration_mode"
     ],
-    "tags": [],
+    "tags": [
+      "vibration"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -12159,7 +13069,8 @@
     ],
     "tags": [
       "help",
-      "emergency"
+      "emergency",
+      "sos"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -12171,7 +13082,11 @@
     "aliases": [
       "x"
     ],
-    "tags": [],
+    "tags": [
+      "cross",
+      "close",
+      "error"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -12193,7 +13108,9 @@
     "aliases": [
       "stop_sign"
     ],
-    "tags": [],
+    "tags": [
+      "stop"
+    ],
     "unicode_version": "9.0",
     "ios_version": "10.2"
   },
@@ -12244,7 +13161,8 @@
     ],
     "tags": [
       "score",
-      "perfect"
+      "perfect",
+      "hundred"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -12439,7 +13357,9 @@
     "aliases": [
       "high_brightness"
     ],
-    "tags": [],
+    "tags": [
+      "bright"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -12462,7 +13382,8 @@
       "warning"
     ],
     "tags": [
-      "wip"
+      "wip",
+      "warning"
     ],
     "unicode_version": "4.0",
     "ios_version": "6.0"
@@ -12520,7 +13441,9 @@
     ],
     "tags": [
       "environment",
-      "green"
+      "green",
+      "recycling",
+      "recycle"
     ],
     "unicode_version": "3.2",
     "ios_version": "6.0"
@@ -12532,7 +13455,12 @@
     "aliases": [
       "white_check_mark"
     ],
-    "tags": [],
+    "tags": [
+      "check",
+      "completed",
+      "complete",
+      "done"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -12649,7 +13577,9 @@
       "zzz"
     ],
     "tags": [
-      "sleeping"
+      "sleeping",
+      "sleepy",
+      "sleep"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -12661,7 +13591,9 @@
     "aliases": [
       "atm"
     ],
-    "tags": [],
+    "tags": [
+      "atm"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -12687,7 +13619,8 @@
       "wheelchair"
     ],
     "tags": [
-      "accessibility"
+      "accessibility",
+      "wheelchair"
     ],
     "unicode_version": "4.1",
     "ios_version": "6.0"
@@ -12755,7 +13688,9 @@
       "baggage_claim"
     ],
     "tags": [
-      "airport"
+      "airport",
+      "baggage",
+      "luggage"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -12767,7 +13702,9 @@
     "aliases": [
       "left_luggage"
     ],
-    "tags": [],
+    "tags": [
+      "luggage"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -12778,7 +13715,9 @@
     "aliases": [
       "mens"
     ],
-    "tags": [],
+    "tags": [
+      "men"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -12789,7 +13728,9 @@
     "aliases": [
       "womens"
     ],
-    "tags": [],
+    "tags": [
+      "women"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -12850,7 +13791,8 @@
       "signal_strength"
     ],
     "tags": [
-      "wifi"
+      "wifi",
+      "antenna"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -12884,7 +13826,9 @@
     "aliases": [
       "information_source"
     ],
-    "tags": [],
+    "tags": [
+      "info"
+    ],
     "unicode_version": "3.0",
     "ios_version": "6.0"
   },
@@ -13137,7 +14081,8 @@
       "hash"
     ],
     "tags": [
-      "number"
+      "number",
+      "hash"
     ],
     "unicode_version": "",
     "ios_version": "6.0"
@@ -13160,7 +14105,9 @@
     "aliases": [
       "arrow_forward"
     ],
-    "tags": [],
+    "tags": [
+      "play"
+    ],
     "unicode_version": "",
     "ios_version": "6.0"
   },
@@ -13171,7 +14118,9 @@
     "aliases": [
       "pause_button"
     ],
-    "tags": [],
+    "tags": [
+      "pause"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -13182,7 +14131,9 @@
     "aliases": [
       "play_or_pause_button"
     ],
-    "tags": [],
+    "tags": [
+      "play"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.1"
   },
@@ -13193,7 +14144,9 @@
     "aliases": [
       "stop_button"
     ],
-    "tags": [],
+    "tags": [
+      "stop"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -13204,7 +14157,9 @@
     "aliases": [
       "record_button"
     ],
-    "tags": [],
+    "tags": [
+      "record"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -13215,7 +14170,9 @@
     "aliases": [
       "next_track_button"
     ],
-    "tags": [],
+    "tags": [
+      "next"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.1"
   },
@@ -13226,7 +14183,9 @@
     "aliases": [
       "previous_track_button"
     ],
-    "tags": [],
+    "tags": [
+      "previous"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.1"
   },
@@ -13508,7 +14467,8 @@
       "arrows_counterclockwise"
     ],
     "tags": [
-      "sync"
+      "sync",
+      "refresh"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -13997,7 +14957,11 @@
     "aliases": [
       "speaker"
     ],
-    "tags": [],
+    "tags": [
+      "speaker",
+      "volume",
+      "sound"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -14010,7 +14974,9 @@
     ],
     "tags": [
       "sound",
-      "volume"
+      "volume",
+      "mute",
+      "muted"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -14023,7 +14989,8 @@
       "sound"
     ],
     "tags": [
-      "volume"
+      "volume",
+      "speaker"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -14036,7 +15003,8 @@
       "loud_sound"
     ],
     "tags": [
-      "volume"
+      "volume",
+      "speaker"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -14050,7 +15018,11 @@
     ],
     "tags": [
       "sound",
-      "notification"
+      "notification",
+      "bell",
+      "ring",
+      "ding",
+      "dong"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -14064,7 +15036,8 @@
     ],
     "tags": [
       "volume",
-      "off"
+      "off",
+      "bell"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -14076,7 +15049,9 @@
     "aliases": [
       "mega"
     ],
-    "tags": [],
+    "tags": [
+      "megaphone"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -14088,7 +15063,8 @@
       "loudspeaker"
     ],
     "tags": [
-      "announcement"
+      "announcement",
+      "loudspeaker"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -14112,7 +15088,11 @@
       "speech_balloon"
     ],
     "tags": [
-      "comment"
+      "comment",
+      "speech",
+      "think",
+      "thinking",
+      "bubble"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -14125,7 +15105,10 @@
       "thought_balloon"
     ],
     "tags": [
-      "thinking"
+      "thinking",
+      "think",
+      "balloon",
+      "bubble"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -14137,7 +15120,10 @@
     "aliases": [
       "right_anger_bubble"
     ],
-    "tags": [],
+    "tags": [
+      "bubble",
+      "comics"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -14148,7 +15134,11 @@
     "aliases": [
       "spades"
     ],
-    "tags": [],
+    "tags": [
+      "spade",
+      "spades",
+      "card"
+    ],
     "unicode_version": "",
     "ios_version": "6.0"
   },
@@ -14159,7 +15149,10 @@
     "aliases": [
       "clubs"
     ],
-    "tags": [],
+    "tags": [
+      "card",
+      "clubs"
+    ],
     "unicode_version": "",
     "ios_version": "6.0"
   },
@@ -14170,7 +15163,10 @@
     "aliases": [
       "hearts"
     ],
-    "tags": [],
+    "tags": [
+      "card",
+      "hearts"
+    ],
     "unicode_version": "",
     "ios_version": "6.0"
   },
@@ -14181,7 +15177,10 @@
     "aliases": [
       "diamonds"
     ],
-    "tags": [],
+    "tags": [
+      "card",
+      "diamonds"
+    ],
     "unicode_version": "",
     "ios_version": "6.0"
   },
@@ -14192,7 +15191,10 @@
     "aliases": [
       "black_joker"
     ],
-    "tags": [],
+    "tags": [
+      "joker",
+      "card"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -14225,7 +15227,9 @@
     "aliases": [
       "clock1"
     ],
-    "tags": [],
+    "tags": [
+      "clock"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -14236,7 +15240,9 @@
     "aliases": [
       "clock2"
     ],
-    "tags": [],
+    "tags": [
+      "clock"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -14324,7 +15330,9 @@
     "aliases": [
       "clock10"
     ],
-    "tags": [],
+    "tags": [
+      "clock"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -14401,7 +15409,9 @@
     "aliases": [
       "clock530"
     ],
-    "tags": [],
+    "tags": [
+      "clock"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -14489,7 +15499,9 @@
     "aliases": [
       "white_flag"
     ],
-    "tags": [],
+    "tags": [
+      "negotiation"
+    ],
     "unicode_version": "7.0",
     "ios_version": "9.1"
   },
@@ -14525,7 +15537,9 @@
     "aliases": [
       "triangular_flag_on_post"
     ],
-    "tags": [],
+    "tags": [
+      "target"
+    ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
   },
@@ -14549,7 +15563,9 @@
     "aliases": [
       "afghanistan"
     ],
-    "tags": [],
+    "tags": [
+      "afghanistan"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14560,7 +15576,9 @@
     "aliases": [
       "aland_islands"
     ],
-    "tags": [],
+    "tags": [
+      "aland"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -14571,7 +15589,9 @@
     "aliases": [
       "albania"
     ],
-    "tags": [],
+    "tags": [
+      "albania"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14582,7 +15602,9 @@
     "aliases": [
       "algeria"
     ],
-    "tags": [],
+    "tags": [
+      "algeria"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14593,7 +15615,9 @@
     "aliases": [
       "american_samoa"
     ],
-    "tags": [],
+    "tags": [
+      "Samoa"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14604,7 +15628,9 @@
     "aliases": [
       "andorra"
     ],
-    "tags": [],
+    "tags": [
+      "andorra"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14615,7 +15641,9 @@
     "aliases": [
       "angola"
     ],
-    "tags": [],
+    "tags": [
+      "angola"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14626,7 +15654,9 @@
     "aliases": [
       "anguilla"
     ],
-    "tags": [],
+    "tags": [
+      "anguilla"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14637,7 +15667,9 @@
     "aliases": [
       "antarctica"
     ],
-    "tags": [],
+    "tags": [
+      "antarctica"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -14648,7 +15680,10 @@
     "aliases": [
       "antigua_barbuda"
     ],
-    "tags": [],
+    "tags": [
+      "Antigua",
+      "Barbuda"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14659,7 +15694,9 @@
     "aliases": [
       "argentina"
     ],
-    "tags": [],
+    "tags": [
+      "Argentina"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14670,7 +15707,9 @@
     "aliases": [
       "armenia"
     ],
-    "tags": [],
+    "tags": [
+      "armenia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14681,7 +15720,9 @@
     "aliases": [
       "aruba"
     ],
-    "tags": [],
+    "tags": [
+      "aruba"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14692,7 +15733,9 @@
     "aliases": [
       "australia"
     ],
-    "tags": [],
+    "tags": [
+      "australia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14703,7 +15746,9 @@
     "aliases": [
       "austria"
     ],
-    "tags": [],
+    "tags": [
+      "austria"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14714,7 +15759,9 @@
     "aliases": [
       "azerbaijan"
     ],
-    "tags": [],
+    "tags": [
+      "azerbaijan"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14725,7 +15772,9 @@
     "aliases": [
       "bahamas"
     ],
-    "tags": [],
+    "tags": [
+      "bahamas"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14736,7 +15785,9 @@
     "aliases": [
       "bahrain"
     ],
-    "tags": [],
+    "tags": [
+      "bahrain"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14747,7 +15798,9 @@
     "aliases": [
       "bangladesh"
     ],
-    "tags": [],
+    "tags": [
+      "bangladesh"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14758,7 +15811,9 @@
     "aliases": [
       "barbados"
     ],
-    "tags": [],
+    "tags": [
+      "barbados"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14769,7 +15824,9 @@
     "aliases": [
       "belarus"
     ],
-    "tags": [],
+    "tags": [
+      "belarus"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14780,7 +15837,9 @@
     "aliases": [
       "belgium"
     ],
-    "tags": [],
+    "tags": [
+      "belgium"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14791,7 +15850,9 @@
     "aliases": [
       "belize"
     ],
-    "tags": [],
+    "tags": [
+      "belize"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14802,7 +15863,9 @@
     "aliases": [
       "benin"
     ],
-    "tags": [],
+    "tags": [
+      "benin"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14813,7 +15876,9 @@
     "aliases": [
       "bermuda"
     ],
-    "tags": [],
+    "tags": [
+      "bermuda"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14824,7 +15889,9 @@
     "aliases": [
       "bhutan"
     ],
-    "tags": [],
+    "tags": [
+      "bhutan"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14835,7 +15902,9 @@
     "aliases": [
       "bolivia"
     ],
-    "tags": [],
+    "tags": [
+      "bolivia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14846,7 +15915,9 @@
     "aliases": [
       "caribbean_netherlands"
     ],
-    "tags": [],
+    "tags": [
+      "Caribbean"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -14857,7 +15928,10 @@
     "aliases": [
       "bosnia_herzegovina"
     ],
-    "tags": [],
+    "tags": [
+      "Bosnia",
+      "Herzegovina"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14868,7 +15942,9 @@
     "aliases": [
       "botswana"
     ],
-    "tags": [],
+    "tags": [
+      "botswana"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14879,7 +15955,9 @@
     "aliases": [
       "brazil"
     ],
-    "tags": [],
+    "tags": [
+      "brazil"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14912,7 +15990,9 @@
     "aliases": [
       "brunei"
     ],
-    "tags": [],
+    "tags": [
+      "brunei"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14923,7 +16003,9 @@
     "aliases": [
       "bulgaria"
     ],
-    "tags": [],
+    "tags": [
+      "bulgaria"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14934,7 +16016,9 @@
     "aliases": [
       "burkina_faso"
     ],
-    "tags": [],
+    "tags": [
+      "Burkina"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14945,7 +16029,9 @@
     "aliases": [
       "burundi"
     ],
-    "tags": [],
+    "tags": [
+      "burundi"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14967,7 +16053,9 @@
     "aliases": [
       "cambodia"
     ],
-    "tags": [],
+    "tags": [
+      "cambodia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14978,7 +16066,9 @@
     "aliases": [
       "cameroon"
     ],
-    "tags": [],
+    "tags": [
+      "cameroon"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -14989,7 +16079,9 @@
     "aliases": [
       "canada"
     ],
-    "tags": [],
+    "tags": [
+      "canada"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15000,7 +16092,9 @@
     "aliases": [
       "canary_islands"
     ],
-    "tags": [],
+    "tags": [
+      "Canary"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -15011,7 +16105,9 @@
     "aliases": [
       "cayman_islands"
     ],
-    "tags": [],
+    "tags": [
+      "Cayman"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15033,7 +16129,9 @@
     "aliases": [
       "chad"
     ],
-    "tags": [],
+    "tags": [
+      "chad"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -15044,7 +16142,9 @@
     "aliases": [
       "chile"
     ],
-    "tags": [],
+    "tags": [
+      "chile"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15080,7 +16180,8 @@
       "cocos_islands"
     ],
     "tags": [
-      "keeling"
+      "keeling",
+      "Cocos"
     ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
@@ -15092,7 +16193,9 @@
     "aliases": [
       "colombia"
     ],
-    "tags": [],
+    "tags": [
+      "colombia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15103,7 +16206,9 @@
     "aliases": [
       "comoros"
     ],
-    "tags": [],
+    "tags": [
+      "comoros"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15125,7 +16230,9 @@
     "aliases": [
       "congo_kinshasa"
     ],
-    "tags": [],
+    "tags": [
+      "Congo"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15136,7 +16243,9 @@
     "aliases": [
       "cook_islands"
     ],
-    "tags": [],
+    "tags": [
+      "Cook"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15171,7 +16280,9 @@
     "aliases": [
       "croatia"
     ],
-    "tags": [],
+    "tags": [
+      "croatia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15182,7 +16293,9 @@
     "aliases": [
       "cuba"
     ],
-    "tags": [],
+    "tags": [
+      "cuba"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15193,7 +16306,9 @@
     "aliases": [
       "curacao"
     ],
-    "tags": [],
+    "tags": [
+      "curacao"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15204,7 +16319,9 @@
     "aliases": [
       "cyprus"
     ],
-    "tags": [],
+    "tags": [
+      "cyprus"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15215,7 +16332,9 @@
     "aliases": [
       "czech_republic"
     ],
-    "tags": [],
+    "tags": [
+      "Czech"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15226,7 +16345,9 @@
     "aliases": [
       "denmark"
     ],
-    "tags": [],
+    "tags": [
+      "denmark"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15237,7 +16358,9 @@
     "aliases": [
       "djibouti"
     ],
-    "tags": [],
+    "tags": [
+      "djibouti"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15248,7 +16371,9 @@
     "aliases": [
       "dominica"
     ],
-    "tags": [],
+    "tags": [
+      "dominica"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15270,7 +16395,9 @@
     "aliases": [
       "ecuador"
     ],
-    "tags": [],
+    "tags": [
+      "ecuador"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15281,7 +16408,9 @@
     "aliases": [
       "egypt"
     ],
-    "tags": [],
+    "tags": [
+      "egypt"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15292,7 +16421,9 @@
     "aliases": [
       "el_salvador"
     ],
-    "tags": [],
+    "tags": [
+      "Salvador"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15314,7 +16445,9 @@
     "aliases": [
       "eritrea"
     ],
-    "tags": [],
+    "tags": [
+      "Eritrea"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15325,7 +16458,9 @@
     "aliases": [
       "estonia"
     ],
-    "tags": [],
+    "tags": [
+      "Estonia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15336,7 +16471,9 @@
     "aliases": [
       "ethiopia"
     ],
-    "tags": [],
+    "tags": [
+      "ethiopia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15348,7 +16485,9 @@
       "eu",
       "european_union"
     ],
-    "tags": [],
+    "tags": [
+      "eu"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -15359,7 +16498,9 @@
     "aliases": [
       "falkland_islands"
     ],
-    "tags": [],
+    "tags": [
+      "Falkland"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -15370,7 +16511,9 @@
     "aliases": [
       "faroe_islands"
     ],
-    "tags": [],
+    "tags": [
+      "Faroe"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15381,7 +16524,9 @@
     "aliases": [
       "fiji"
     ],
-    "tags": [],
+    "tags": [
+      "Fiji"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15392,7 +16537,9 @@
     "aliases": [
       "finland"
     ],
-    "tags": [],
+    "tags": [
+      "Finland"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15417,7 +16564,9 @@
     "aliases": [
       "french_guiana"
     ],
-    "tags": [],
+    "tags": [
+      "Guiana"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15450,7 +16599,9 @@
     "aliases": [
       "gabon"
     ],
-    "tags": [],
+    "tags": [
+      "Gabon"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15461,7 +16612,9 @@
     "aliases": [
       "gambia"
     ],
-    "tags": [],
+    "tags": [
+      "Gambia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15472,7 +16625,9 @@
     "aliases": [
       "georgia"
     ],
-    "tags": [],
+    "tags": [
+      "Georgia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15497,7 +16652,9 @@
     "aliases": [
       "ghana"
     ],
-    "tags": [],
+    "tags": [
+      "ghana"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15508,7 +16665,9 @@
     "aliases": [
       "gibraltar"
     ],
-    "tags": [],
+    "tags": [
+      "gibraltar"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15519,7 +16678,9 @@
     "aliases": [
       "greece"
     ],
-    "tags": [],
+    "tags": [
+      "greece"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15530,7 +16691,9 @@
     "aliases": [
       "greenland"
     ],
-    "tags": [],
+    "tags": [
+      "greenland"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -15541,7 +16704,9 @@
     "aliases": [
       "grenada"
     ],
-    "tags": [],
+    "tags": [
+      "grenada"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15552,7 +16717,9 @@
     "aliases": [
       "guadeloupe"
     ],
-    "tags": [],
+    "tags": [
+      "guadeloupe"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -15563,7 +16730,9 @@
     "aliases": [
       "guam"
     ],
-    "tags": [],
+    "tags": [
+      "guam"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15574,7 +16743,9 @@
     "aliases": [
       "guatemala"
     ],
-    "tags": [],
+    "tags": [
+      "guatemala"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15585,7 +16756,9 @@
     "aliases": [
       "guernsey"
     ],
-    "tags": [],
+    "tags": [
+      "guernsey"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -15596,7 +16769,9 @@
     "aliases": [
       "guinea"
     ],
-    "tags": [],
+    "tags": [
+      "guinea"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15618,7 +16793,9 @@
     "aliases": [
       "guyana"
     ],
-    "tags": [],
+    "tags": [
+      "guyana"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15629,7 +16806,9 @@
     "aliases": [
       "haiti"
     ],
-    "tags": [],
+    "tags": [
+      "haiti"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15640,7 +16819,9 @@
     "aliases": [
       "honduras"
     ],
-    "tags": [],
+    "tags": [
+      "honduras"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15662,7 +16843,9 @@
     "aliases": [
       "hungary"
     ],
-    "tags": [],
+    "tags": [
+      "hungary"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15673,7 +16856,9 @@
     "aliases": [
       "iceland"
     ],
-    "tags": [],
+    "tags": [
+      "iceland"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15684,7 +16869,9 @@
     "aliases": [
       "india"
     ],
-    "tags": [],
+    "tags": [
+      "india"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15695,7 +16882,9 @@
     "aliases": [
       "indonesia"
     ],
-    "tags": [],
+    "tags": [
+      "indonesia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15706,7 +16895,9 @@
     "aliases": [
       "iran"
     ],
-    "tags": [],
+    "tags": [
+      "iran"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15717,7 +16908,9 @@
     "aliases": [
       "iraq"
     ],
-    "tags": [],
+    "tags": [
+      "iraq"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15728,7 +16921,9 @@
     "aliases": [
       "ireland"
     ],
-    "tags": [],
+    "tags": [
+      "ireland"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15750,7 +16945,9 @@
     "aliases": [
       "israel"
     ],
-    "tags": [],
+    "tags": [
+      "Israel"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15774,7 +16971,9 @@
     "aliases": [
       "jamaica"
     ],
-    "tags": [],
+    "tags": [
+      "jamaica"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15809,7 +17008,9 @@
     "aliases": [
       "jersey"
     ],
-    "tags": [],
+    "tags": [
+      "jersey"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -15820,7 +17021,9 @@
     "aliases": [
       "jordan"
     ],
-    "tags": [],
+    "tags": [
+      "jordan"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15831,7 +17034,9 @@
     "aliases": [
       "kazakhstan"
     ],
-    "tags": [],
+    "tags": [
+      "kazakhstan"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15842,7 +17047,9 @@
     "aliases": [
       "kenya"
     ],
-    "tags": [],
+    "tags": [
+      "kenya"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15853,7 +17060,9 @@
     "aliases": [
       "kiribati"
     ],
-    "tags": [],
+    "tags": [
+      "kiribati"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15864,7 +17073,9 @@
     "aliases": [
       "kosovo"
     ],
-    "tags": [],
+    "tags": [
+      "kosovo"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15875,7 +17086,9 @@
     "aliases": [
       "kuwait"
     ],
-    "tags": [],
+    "tags": [
+      "kuwait"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15886,7 +17099,9 @@
     "aliases": [
       "kyrgyzstan"
     ],
-    "tags": [],
+    "tags": [
+      "kyrgyzstan"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15897,7 +17112,9 @@
     "aliases": [
       "laos"
     ],
-    "tags": [],
+    "tags": [
+      "laos"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15908,7 +17125,9 @@
     "aliases": [
       "latvia"
     ],
-    "tags": [],
+    "tags": [
+      "latvia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15919,7 +17138,9 @@
     "aliases": [
       "lebanon"
     ],
-    "tags": [],
+    "tags": [
+      "lebanon"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15930,7 +17151,9 @@
     "aliases": [
       "lesotho"
     ],
-    "tags": [],
+    "tags": [
+      "lesotho"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15941,7 +17164,9 @@
     "aliases": [
       "liberia"
     ],
-    "tags": [],
+    "tags": [
+      "liberia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15952,7 +17177,9 @@
     "aliases": [
       "libya"
     ],
-    "tags": [],
+    "tags": [
+      "libya"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15963,7 +17190,9 @@
     "aliases": [
       "liechtenstein"
     ],
-    "tags": [],
+    "tags": [
+      "liechtenstein"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15974,7 +17203,9 @@
     "aliases": [
       "lithuania"
     ],
-    "tags": [],
+    "tags": [
+      "lithuania"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15985,7 +17216,9 @@
     "aliases": [
       "luxembourg"
     ],
-    "tags": [],
+    "tags": [
+      "luxembourg"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -15996,7 +17229,9 @@
     "aliases": [
       "macau"
     ],
-    "tags": [],
+    "tags": [
+      "macau"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16007,7 +17242,9 @@
     "aliases": [
       "macedonia"
     ],
-    "tags": [],
+    "tags": [
+      "macedonia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16018,7 +17255,9 @@
     "aliases": [
       "madagascar"
     ],
-    "tags": [],
+    "tags": [
+      "madagascar"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16029,7 +17268,9 @@
     "aliases": [
       "malawi"
     ],
-    "tags": [],
+    "tags": [
+      "malawi"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16040,7 +17281,9 @@
     "aliases": [
       "malaysia"
     ],
-    "tags": [],
+    "tags": [
+      "malaysia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16051,7 +17294,9 @@
     "aliases": [
       "maldives"
     ],
-    "tags": [],
+    "tags": [
+      "maldives"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16062,7 +17307,9 @@
     "aliases": [
       "mali"
     ],
-    "tags": [],
+    "tags": [
+      "mali"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16073,7 +17320,9 @@
     "aliases": [
       "malta"
     ],
-    "tags": [],
+    "tags": [
+      "malta"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16084,7 +17333,9 @@
     "aliases": [
       "marshall_islands"
     ],
-    "tags": [],
+    "tags": [
+      "Marshall"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -16095,7 +17346,9 @@
     "aliases": [
       "martinique"
     ],
-    "tags": [],
+    "tags": [
+      "martinique"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -16106,7 +17359,9 @@
     "aliases": [
       "mauritania"
     ],
-    "tags": [],
+    "tags": [
+      "mauritania"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16117,7 +17372,9 @@
     "aliases": [
       "mauritius"
     ],
-    "tags": [],
+    "tags": [
+      "mauritius"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -16128,7 +17385,9 @@
     "aliases": [
       "mayotte"
     ],
-    "tags": [],
+    "tags": [
+      "mayotte"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -16139,7 +17398,9 @@
     "aliases": [
       "mexico"
     ],
-    "tags": [],
+    "tags": [
+      "mexico"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16150,7 +17411,9 @@
     "aliases": [
       "micronesia"
     ],
-    "tags": [],
+    "tags": [
+      "micronesia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -16161,7 +17424,9 @@
     "aliases": [
       "moldova"
     ],
-    "tags": [],
+    "tags": [
+      "moldova"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16172,7 +17437,9 @@
     "aliases": [
       "monaco"
     ],
-    "tags": [],
+    "tags": [
+      "monaco"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -16183,7 +17450,9 @@
     "aliases": [
       "mongolia"
     ],
-    "tags": [],
+    "tags": [
+      "mongolia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16194,7 +17463,9 @@
     "aliases": [
       "montenegro"
     ],
-    "tags": [],
+    "tags": [
+      "montenegro"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16205,7 +17476,9 @@
     "aliases": [
       "montserrat"
     ],
-    "tags": [],
+    "tags": [
+      "montserrat"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16216,7 +17489,9 @@
     "aliases": [
       "morocco"
     ],
-    "tags": [],
+    "tags": [
+      "morocco"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16227,7 +17502,9 @@
     "aliases": [
       "mozambique"
     ],
-    "tags": [],
+    "tags": [
+      "mozambique"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16239,7 +17516,8 @@
       "myanmar"
     ],
     "tags": [
-      "burma"
+      "burma",
+      "myanmar"
     ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
@@ -16251,7 +17529,9 @@
     "aliases": [
       "namibia"
     ],
-    "tags": [],
+    "tags": [
+      "namibia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16262,7 +17542,9 @@
     "aliases": [
       "nauru"
     ],
-    "tags": [],
+    "tags": [
+      "nauru"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -16273,7 +17555,9 @@
     "aliases": [
       "nepal"
     ],
-    "tags": [],
+    "tags": [
+      "nepal"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16284,7 +17568,9 @@
     "aliases": [
       "netherlands"
     ],
-    "tags": [],
+    "tags": [
+      "netherlands"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16295,7 +17581,9 @@
     "aliases": [
       "new_caledonia"
     ],
-    "tags": [],
+    "tags": [
+      "Caledonia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16306,7 +17594,9 @@
     "aliases": [
       "new_zealand"
     ],
-    "tags": [],
+    "tags": [
+      "Zealand"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16317,7 +17607,9 @@
     "aliases": [
       "nicaragua"
     ],
-    "tags": [],
+    "tags": [
+      "Nicaragua"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16328,7 +17620,9 @@
     "aliases": [
       "niger"
     ],
-    "tags": [],
+    "tags": [
+      "niger"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16339,7 +17633,9 @@
     "aliases": [
       "nigeria"
     ],
-    "tags": [],
+    "tags": [
+      "nigeria"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16350,7 +17646,9 @@
     "aliases": [
       "niue"
     ],
-    "tags": [],
+    "tags": [
+      "niue"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16361,7 +17659,9 @@
     "aliases": [
       "norfolk_island"
     ],
-    "tags": [],
+    "tags": [
+      "Norfolk"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -16372,7 +17672,9 @@
     "aliases": [
       "northern_mariana_islands"
     ],
-    "tags": [],
+    "tags": [
+      "Mariana"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16383,7 +17685,9 @@
     "aliases": [
       "north_korea"
     ],
-    "tags": [],
+    "tags": [
+      "northkorea"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16394,7 +17698,9 @@
     "aliases": [
       "norway"
     ],
-    "tags": [],
+    "tags": [
+      "Norway"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16405,7 +17711,9 @@
     "aliases": [
       "oman"
     ],
-    "tags": [],
+    "tags": [
+      "Oman"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16416,7 +17724,9 @@
     "aliases": [
       "pakistan"
     ],
-    "tags": [],
+    "tags": [
+      "Pakistan"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16427,7 +17737,9 @@
     "aliases": [
       "palau"
     ],
-    "tags": [],
+    "tags": [
+      "Palau"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16438,7 +17750,9 @@
     "aliases": [
       "palestinian_territories"
     ],
-    "tags": [],
+    "tags": [
+      "Palestine"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16449,7 +17763,9 @@
     "aliases": [
       "panama"
     ],
-    "tags": [],
+    "tags": [
+      "Panama"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16460,7 +17776,9 @@
     "aliases": [
       "papua_new_guinea"
     ],
-    "tags": [],
+    "tags": [
+      "Guinea"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16471,7 +17789,9 @@
     "aliases": [
       "paraguay"
     ],
-    "tags": [],
+    "tags": [
+      "Paraguay"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16482,7 +17802,9 @@
     "aliases": [
       "peru"
     ],
-    "tags": [],
+    "tags": [
+      "Peru"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16493,7 +17815,9 @@
     "aliases": [
       "philippines"
     ],
-    "tags": [],
+    "tags": [
+      "Philippines"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16504,7 +17828,9 @@
     "aliases": [
       "pitcairn_islands"
     ],
-    "tags": [],
+    "tags": [
+      "Pitcairn"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -16515,7 +17841,9 @@
     "aliases": [
       "poland"
     ],
-    "tags": [],
+    "tags": [
+      "Poland"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16526,7 +17854,9 @@
     "aliases": [
       "portugal"
     ],
-    "tags": [],
+    "tags": [
+      "Portugal"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16537,7 +17867,9 @@
     "aliases": [
       "puerto_rico"
     ],
-    "tags": [],
+    "tags": [
+      "Puerto"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16548,7 +17880,9 @@
     "aliases": [
       "qatar"
     ],
-    "tags": [],
+    "tags": [
+      "Qatar"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16559,7 +17893,9 @@
     "aliases": [
       "reunion"
     ],
-    "tags": [],
+    "tags": [
+      "reunion"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -16570,7 +17906,9 @@
     "aliases": [
       "romania"
     ],
-    "tags": [],
+    "tags": [
+      "romania"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16594,7 +17932,9 @@
     "aliases": [
       "rwanda"
     ],
-    "tags": [],
+    "tags": [
+      "rwanda"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16605,7 +17945,9 @@
     "aliases": [
       "st_barthelemy"
     ],
-    "tags": [],
+    "tags": [
+      "barthelemy"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -16616,7 +17958,9 @@
     "aliases": [
       "st_helena"
     ],
-    "tags": [],
+    "tags": [
+      "Helena"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -16638,7 +17982,9 @@
     "aliases": [
       "st_lucia"
     ],
-    "tags": [],
+    "tags": [
+      "Lucia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16671,7 +18017,9 @@
     "aliases": [
       "samoa"
     ],
-    "tags": [],
+    "tags": [
+      "Samoa"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16682,7 +18030,9 @@
     "aliases": [
       "san_marino"
     ],
-    "tags": [],
+    "tags": [
+      "SanMarino"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16704,7 +18054,9 @@
     "aliases": [
       "saudi_arabia"
     ],
-    "tags": [],
+    "tags": [
+      "Saudi"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16715,7 +18067,9 @@
     "aliases": [
       "senegal"
     ],
-    "tags": [],
+    "tags": [
+      "Senegal"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16726,7 +18080,9 @@
     "aliases": [
       "serbia"
     ],
-    "tags": [],
+    "tags": [
+      "Serbia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16737,7 +18093,9 @@
     "aliases": [
       "seychelles"
     ],
-    "tags": [],
+    "tags": [
+      "seychelles"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16748,7 +18106,9 @@
     "aliases": [
       "sierra_leone"
     ],
-    "tags": [],
+    "tags": [
+      "Leone"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16759,7 +18119,9 @@
     "aliases": [
       "singapore"
     ],
-    "tags": [],
+    "tags": [
+      "Singapore"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16770,7 +18132,9 @@
     "aliases": [
       "sint_maarten"
     ],
-    "tags": [],
+    "tags": [
+      "Maarten"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16781,7 +18145,9 @@
     "aliases": [
       "slovakia"
     ],
-    "tags": [],
+    "tags": [
+      "Slovakia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16792,7 +18158,9 @@
     "aliases": [
       "slovenia"
     ],
-    "tags": [],
+    "tags": [
+      "Slovenia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16803,7 +18171,9 @@
     "aliases": [
       "solomon_islands"
     ],
-    "tags": [],
+    "tags": [
+      "Solomon"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16814,7 +18184,9 @@
     "aliases": [
       "somalia"
     ],
-    "tags": [],
+    "tags": [
+      "Somalia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16825,7 +18197,9 @@
     "aliases": [
       "south_africa"
     ],
-    "tags": [],
+    "tags": [
+      "Africa"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16848,7 +18222,7 @@
       "kr"
     ],
     "tags": [
-      "korea"
+      "Korea"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -16860,7 +18234,9 @@
     "aliases": [
       "south_sudan"
     ],
-    "tags": [],
+    "tags": [
+      "Sudan"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16884,7 +18260,9 @@
     "aliases": [
       "sri_lanka"
     ],
-    "tags": [],
+    "tags": [
+      "srilanka"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16895,7 +18273,9 @@
     "aliases": [
       "sudan"
     ],
-    "tags": [],
+    "tags": [
+      "sudan"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16906,7 +18286,9 @@
     "aliases": [
       "suriname"
     ],
-    "tags": [],
+    "tags": [
+      "suriname"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16917,7 +18299,9 @@
     "aliases": [
       "swaziland"
     ],
-    "tags": [],
+    "tags": [
+      "swaziland"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16928,7 +18312,9 @@
     "aliases": [
       "sweden"
     ],
-    "tags": [],
+    "tags": [
+      "sweden"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16939,7 +18325,9 @@
     "aliases": [
       "switzerland"
     ],
-    "tags": [],
+    "tags": [
+      "switzerland"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16950,7 +18338,9 @@
     "aliases": [
       "syria"
     ],
-    "tags": [],
+    "tags": [
+      "syria"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16961,7 +18351,9 @@
     "aliases": [
       "taiwan"
     ],
-    "tags": [],
+    "tags": [
+      "taiwan"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -16972,7 +18364,9 @@
     "aliases": [
       "tajikistan"
     ],
-    "tags": [],
+    "tags": [
+      "tajikistan"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16983,7 +18377,9 @@
     "aliases": [
       "tanzania"
     ],
-    "tags": [],
+    "tags": [
+      "tanzania"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -16994,7 +18390,9 @@
     "aliases": [
       "thailand"
     ],
-    "tags": [],
+    "tags": [
+      "thailand"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -17016,7 +18414,9 @@
     "aliases": [
       "togo"
     ],
-    "tags": [],
+    "tags": [
+      "togo"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -17027,7 +18427,9 @@
     "aliases": [
       "tokelau"
     ],
-    "tags": [],
+    "tags": [
+      "tokelau"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -17038,7 +18440,9 @@
     "aliases": [
       "tonga"
     ],
-    "tags": [],
+    "tags": [
+      "tonga"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -17049,7 +18453,9 @@
     "aliases": [
       "trinidad_tobago"
     ],
-    "tags": [],
+    "tags": [
+      "Tobago"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -17060,7 +18466,9 @@
     "aliases": [
       "tunisia"
     ],
-    "tags": [],
+    "tags": [
+      "tunisia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -17084,7 +18492,9 @@
     "aliases": [
       "turkmenistan"
     ],
-    "tags": [],
+    "tags": [
+      "turkmenistan"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -17106,7 +18516,9 @@
     "aliases": [
       "tuvalu"
     ],
-    "tags": [],
+    "tags": [
+      "tuvalu"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -17117,7 +18529,9 @@
     "aliases": [
       "uganda"
     ],
-    "tags": [],
+    "tags": [
+      "uganda"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -17128,7 +18542,9 @@
     "aliases": [
       "ukraine"
     ],
-    "tags": [],
+    "tags": [
+      "ukraine"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -17139,7 +18555,10 @@
     "aliases": [
       "united_arab_emirates"
     ],
-    "tags": [],
+    "tags": [
+      "uae",
+      "dubai"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -17153,7 +18572,8 @@
     ],
     "tags": [
       "flag",
-      "british"
+      "british",
+      "uk"
     ],
     "unicode_version": "6.0",
     "ios_version": "6.0"
@@ -17191,7 +18611,9 @@
     "aliases": [
       "uruguay"
     ],
-    "tags": [],
+    "tags": [
+      "uruguay"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -17202,7 +18624,9 @@
     "aliases": [
       "uzbekistan"
     ],
-    "tags": [],
+    "tags": [
+      "uzbekistan"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -17213,7 +18637,9 @@
     "aliases": [
       "vanuatu"
     ],
-    "tags": [],
+    "tags": [
+      "vanuatu"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -17224,7 +18650,10 @@
     "aliases": [
       "vatican_city"
     ],
-    "tags": [],
+    "tags": [
+      "Vatican",
+      "pope"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -17235,7 +18664,9 @@
     "aliases": [
       "venezuela"
     ],
-    "tags": [],
+    "tags": [
+      "venezuela"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -17246,7 +18677,9 @@
     "aliases": [
       "vietnam"
     ],
-    "tags": [],
+    "tags": [
+      "vietnam"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -17257,7 +18690,9 @@
     "aliases": [
       "wallis_futuna"
     ],
-    "tags": [],
+    "tags": [
+      "Futuna"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -17268,7 +18703,9 @@
     "aliases": [
       "western_sahara"
     ],
-    "tags": [],
+    "tags": [
+      "Sahara"
+    ],
     "unicode_version": "6.0",
     "ios_version": "9.0"
   },
@@ -17279,7 +18716,9 @@
     "aliases": [
       "yemen"
     ],
-    "tags": [],
+    "tags": [
+      "Yemen"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -17290,7 +18729,9 @@
     "aliases": [
       "zambia"
     ],
-    "tags": [],
+    "tags": [
+      "Zambia"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   },
@@ -17301,7 +18742,9 @@
     "aliases": [
       "zimbabwe"
     ],
-    "tags": [],
+    "tags": [
+      "zimbabwe"
+    ],
     "unicode_version": "6.0",
     "ios_version": "8.3"
   }
